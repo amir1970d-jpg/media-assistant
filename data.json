@@ -1,1 +1,1028 @@
-{"updated": null, "sources": [], "items": []}
+{
+ "sources": [
+  {
+   "name": "تیوال",
+   "url": "https://www.tiwall.com",
+   "status": "ok",
+   "count": 1
+  },
+  {
+   "name": "کارنامه",
+   "url": "https://karnameh.com",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "خانه هنرمندان ایران",
+   "url": "https://iranartistsforum.ir",
+   "status": "error",
+   "error": "HTTPSConnectionPool(host='iranartistsforum.ir', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr",
+   "count": 0
+  },
+  {
+   "name": "موزه هنرهای معاصر تهران",
+   "url": "https://tmoca.com",
+   "status": "ok",
+   "count": 6
+  },
+  {
+   "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
+   "url": "https://eec.ut.ac.ir",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "name": "باشگاه عکاسان جوان",
+   "url": "https://yphc.ir",
+   "status": "ok",
+   "count": 24
+  },
+  {
+   "name": "آکادمی دیدنگار",
+   "url": "https://academy.didnegar.com",
+   "status": "ok",
+   "count": 36
+  },
+  {
+   "name": "مجتمع فنی تهران - نیاوران",
+   "url": "https://mftniavaran.com/department/culture-art/",
+   "status": "ok",
+   "count": 1
+  },
+  {
+   "name": "مجتمع فنی تهران - زعفرانیه",
+   "url": "https://mftzf.com/departments/هنر-و-سینما/عکاسی-و-تصویر-برداری",
+   "status": "ok",
+   "count": 11
+  },
+  {
+   "name": "هنرآنلاین",
+   "url": "https://honaronline.ir",
+   "status": "ok",
+   "count": 27
+  },
+  {
+   "name": "ایسنا",
+   "url": "https://www.isna.ir",
+   "status": "ok",
+   "count": 0
+  }
+ ],
+ "items": [
+  {
+   "id": "fba0b8ba504e",
+   "title": "آیین اختتامیه یازدهمین جشنواره بازی‌های ویدئویی «هفت‌خوان بازی»",
+   "url": "https://honaronline.ir/بخش-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C-11/206039-%D8%A2%DB%8C%DB%8C%D9%86-%D8%A7%D8%AE%D8%AA%D8%AA%D8%A7%D9%85%DB%8C%D9%87-%DB%8C%D8%A7%D8%B2%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D9%88%DB%8C%D8%AF%D8%A6%D9%88%DB%8C%DB%8C-%D9%87%D9%81%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DB%8C",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "faa90c344602",
+   "title": "نمایشگاه عکس “اینجا ایران است…”",
+   "url": "https://yphc.ir/gallery/this-is-iran1/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "f90fc22af400",
+   "title": "دوره آموزش عکاسی نوزاد و کودک",
+   "url": "https://academy.didnegar.com/product/specialized-photography-of-babies-and-children/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "f523a395c41b",
+   "title": "کاملترین ترندهای عکاسی محصول 2024",
+   "url": "https://academy.didnegar.com/the-most-comprehnesive-product-photography-trends-of-2024/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "f47f5acdbdbd",
+   "title": "اولین نمایشگاه گروهی عکس خاتون سرزمین پارسی",
+   "url": "https://yphc.ir/gallery/khatoon1/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "f47b4d760293",
+   "title": "نقدی به فیلم «قلب رقه»/ فیلمی با ایراد‌های اساسی در منطق روایی‌",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/194794-%D9%86%D9%82%D8%AF%DB%8C-%D8%A8%D9%87-%D9%81%DB%8C%D9%84%D9%85-%D9%82%D9%84%D8%A8-%D8%B1%D9%82%D9%87-%D9%81%DB%8C%D9%84%D9%85%DB%8C-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D8%AF-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82-%D8%B1%D9%88%D8%A7%DB%8C%DB%8C",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "ef0a48325548",
+   "title": "دوره تدوین و جلوه های ویژه",
+   "url": "https://mftzf.com/departments/art-and-cinema/تدوین-و-جلوه-های-ویژه",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "e631608f5021",
+   "title": "تحلیل هوشنگ گلمکانی از بازی رعنا آزادی ور در  «زخم‌کاری» + فیلم",
+   "url": "https://honaronline.ir/بخش-%D9%87%D9%86%D8%B1%DA%AF%D8%B1%D8%AF%DB%8C-105/194158-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D9%87%D9%88%D8%B4%D9%86%DA%AF-%DA%AF%D9%84%D9%85%DA%A9%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B1%D8%B9%D9%86%D8%A7-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D9%88%D8%B1-%D8%AF%D8%B1-%D8%B2%D8%AE%D9%85-%DA%A9%D8%A7%D8%B1%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "e30ba8e842e8",
+   "title": "دوره صفرتا عکاسی (جامع)",
+   "url": "https://yphc.ir/academy/courses/comprehensive-class/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "de2a8cafe720",
+   "title": "اعلام نامزدهای بخش نمایشنامه‌نویسی دانش‌آموزی جشنواره کودک و نوجوان",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/205014-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D9%86%D8%A7%D9%85%D8%B2%D8%AF%D9%87%D8%A7%DB%8C-%D8%A8%D8%AE%D8%B4-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%AF%DA%A9-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "dd80fd35183f",
+   "title": "اهالی سینما چه پیشنهاداتی برای رئیس جدید سازمان…",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/196002-%D8%A7%D9%87%D8%A7%D9%84%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%DA%86%D9%87-%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF%D8%A7%D8%AA%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF-%D9%87%D9%85%D9%87-%D8%A7%D9%85%DB%8C%D8%AF%D9%88%D8%A7%D8%B1-%D8%A8%D9%87-%D9%87%D9%85%D8%AF%D9%84%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "db3d493afb85",
+   "title": "نقدی بر «پول و پارتی» به کارگردانی سعید سهیلی/ فیلمی هندی در…",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/194030-%D9%86%D9%82%D8%AF%DB%8C-%D8%A8%D8%B1-%D9%BE%D9%88%D9%84-%D9%BE%D8%A7%D8%B1%D8%AA%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%DB%8C-%D8%B3%D8%B9%DB%8C%D8%AF-%D8%B3%D9%87%DB%8C%D9%84%DB%8C-%D9%81%DB%8C%D9%84%D9%85%DB%8C-%D9%87%D9%86%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%DB%8C%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "da736223c080",
+   "title": "هنرمندان ما در فضای جهانی‌سازی حل شده اند/ سینما بدون…",
+   "url": "https://honaronline.ir/بخش-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-28/194274-%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF%D8%A7%D9%86-%D9%85%D8%A7-%D8%AF%D8%B1-%D9%81%D8%B6%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AD%D9%84-%D8%B4%D8%AF%D9%87-%D8%A7%D9%86%D8%AF-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%DB%8C%D8%AF%D8%A6%D9%88%D9%84%D9%88%DA%98%DB%8C-%D9%85%D8%B9%D9%86%D8%A7-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%B9%D8%A7%D9%85%D9%87-%D9%85%D8%A7-%D8%AF%D8%B1-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%AC%D8%A7%DB%8C%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "d6fbe061bf2f",
+   "title": "کلاس عکاسی تبلیغاتی",
+   "url": "https://yphc.ir/academy/courses/advertising-photography/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "d65cff50b456",
+   "title": "دوره نقد و تحلیل عکس",
+   "url": "https://academy.didnegar.com/product/%d8%af%d9%88%d8%b1%d9%87-%d9%86%d9%82%d8%af-%d9%88-%d8%aa%d8%ad%d9%84%db%8c%d9%84-%d8%b9%da%a9%d8%b3/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "d56fe4ddc846",
+   "title": "100 سوال رایج عکاسی؛ آموزش عکاسی صفر تا صد (بخش اول)",
+   "url": "https://academy.didnegar.com/common-photography-question/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "d3ef929d42cc",
+   "title": "تفاوت‌ تدوین سینمایی و تدوین تبلیغاتی",
+   "url": "https://academy.didnegar.com/film-editing-and-advertising-editing/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "d359a045fc6b",
+   "title": "نکات جامع نورپردازی در عکاسی نوزاد",
+   "url": "https://academy.didnegar.com/lighting-in-baby-photogeraphy/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "d2b59f16b641",
+   "title": "همراه با فیلم‌های آخر هفته تلویزیون؛ از «پرده آخر» تا «فرمول یک»",
+   "url": "https://honaronline.ir/بخش-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-28/208539-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D9%81%DB%8C%D9%84%D9%85-%D9%87%D8%A7%DB%8C-%D8%A2%D8%AE%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D8%B2-%D9%BE%D8%B1%D8%AF%D9%87-%D8%A2%D8%AE%D8%B1-%D8%AA%D8%A7-%D9%81%D8%B1%D9%85%D9%88%D9%84-%DB%8C%DA%A9",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "d10e71f3e2a3",
+   "title": "روزهای پاییزی از کدام نمایشگاه‌ها بازدید کنیم؟",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/208545-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%AF%D8%A7%D9%85-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%A8%D8%A7%D8%B2%D8%AF%DB%8C%D8%AF-%DA%A9%D9%86%DB%8C%D9%85",
+   "source": "هنرآنلاین",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "ccebf0ee8e4e",
+   "title": "نگاهی به «ساعت شش صبح» به کارگردانی مهران مدیری/ ضعیف از هر نظر!",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/193994-%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%D8%A8%D9%87-%D8%B3%D8%A7%D8%B9%D8%AA-%D8%B4%D8%B4-%D8%B5%D8%A8%D8%AD-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%DB%8C-%D9%85%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C-%D8%B6%D8%B9%DB%8C%D9%81-%D8%A7%D8%B2-%D9%87%D8%B1-%D9%86%D8%B8%D8%B1",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "cc89528e6293",
+   "title": "چهارمین کارگاه آموزشی را با عنوان «آشنایی با فرایند ظهور نگاتیو سیاه‌وسفید»",
+   "url": "https://tmoca.com/news/%da%86%d9%87%d8%a7%d8%b1%d9%85%db%8c%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%a7%d9%87-%d8%a2%d9%85%d9%88%d8%b2%d8%b4%db%8c-%d8%b1%d8%a7-%d8%a8%d8%a7-%d8%b9%d9%86%d9%88%d8%a7%d9%86-%d8%a2%d8%b4%d9%86/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "c8d45bd88a9a",
+   "title": "بهترین ایده عکاسی پرتره ۲۰۲۴",
+   "url": "https://academy.didnegar.com/the-best-portrait-photography-tricks-of-2024/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "c8409a24fa5d",
+   "title": "فیلم| نویسنده و بازیگردان سریال «زخم کاری»: رعنا آزادی‌ور…",
+   "url": "https://honaronline.ir/بخش-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-28/194301-%D9%81%DB%8C%D9%84%D9%85-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C%DA%AF%D8%B1%D8%AF%D8%A7%D9%86-%D8%B3%D8%B1%DB%8C%D8%A7%D9%84-%D8%B2%D8%AE%D9%85-%DA%A9%D8%A7%D8%B1%DB%8C-%D8%B1%D8%B9%D9%86%D8%A7-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D9%88%D8%B1-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86%DA%A9%D9%87-%D9%87%D9%86%DA%AF%D8%A7%D9%85-%D8%A7%DB%8C%D9%81%D8%A7%DB%8C-%D9%86%D9%82%D8%B4-%D8%B2%D8%B4%D8%AA-%D8%A8%D9%87-%D9%86%D8%B8%D8%B1-%D8%A8%DB%8C%D8%A7%DB%8C%D8%AF-%D9%86%D9%85%DB%8C-%D8%AA%D8%B1%D8%B3%D8%AF-%DA%A9%D8%B3%DB%8C-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%D8%A8%D8%A7%D8%B2%DB%8C%DA%AF%D8%B1%DB%8C-%D8%B2%D9%86%D8%A7%D9%86-%D9%86%DB%8C%D8%B3%D8%AA-%D9%85%DB%8C-%DA%AF%D9%88%DB%8C%D9%86%D8%AF-%D8%AF%D8%B1-%D9%87%D9%85%DB%8C%D9%86-%D8%AD%D8%AF-%D8%AE%D9%88%D8%A8-%D8%A7%D8%B3%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "c562eba7e09b",
+   "title": "تمدید نمایشگاه این صورت باقی",
+   "url": "https://tmoca.com/exhibitions/current/%d8%aa%d9%85%d8%af%db%8c%d8%af-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a7%db%8c%d9%86-%d8%b5%d9%88%d8%b1%d8%aa-%d8%a8%d8%a7%d9%82%db%8c/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "c3ae1a74b074",
+   "title": "دو فیلم‌تئاتر عروسکی «حلزون و وال» و «ماکاندو»",
+   "url": "https://tmoca.com/events/cinematheque/%d8%af%d9%88-%d9%81%db%8c%d9%84%d9%85%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d8%b9%d8%b1%d9%88%d8%b3%da%a9%db%8c-%d8%ad%d9%84%d8%b2%d9%88%d9%86-%d9%88-%d9%88%d8%a7%d9%84-%d9%88/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "c32197ec868b",
+   "title": "نگاهی به نمایش «قصاب» به کارگردانی شاهو رستمی",
+   "url": "https://www.tiwall.com/news/leboucher4.etemad",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "be553b373627",
+   "title": "آموزش عکاسی طبیعت مقدماتی تا پیشرفته",
+   "url": "https://academy.didnegar.com/nature-phtography-learning/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "bbcd5c033af2",
+   "title": "تدوین و جلوه های ویژه",
+   "url": "https://mftzf.com/departments/هنر-و-سینما/تدوین-و-جلوه-های-ویژه",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "b6d9f85dc779",
+   "title": "۳۰ نکته جدید عکاسی پرتره مدلینگ",
+   "url": "https://academy.didnegar.com/new-point-portrait-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "b5f0fb571e1e",
+   "title": "کارگاه عکاسی صنعتی و تبلیغاتی",
+   "url": "https://mftzf.com/course/کارگاه-عکاسی-صنعتی-و-تبلیغاتی",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "b2200cc5940c",
+   "title": "نگاهی به مفاهیم انسان‌گرایانه فیلم «در آغوش درخت»",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/195947-%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%D8%A8%D9%87-%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D8%A7%D9%86%D8%B3%D8%A7%D9%86-%DA%AF%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D9%81%DB%8C%D9%84%D9%85-%D8%AF%D8%B1-%D8%A2%D8%BA%D9%88%D8%B4-%D8%AF%D8%B1%D8%AE%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "b219afac8aa7",
+   "title": "نمایشگاه گروهی عکس مهتربنایان",
+   "url": "https://yphc.ir/gallery/mehtarbanayan/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "b1ee8f814507",
+   "title": "کارگاه عکاسی پرتره",
+   "url": "https://mftzf.com/course/کارگاه-عکاسی-پرتره",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "b0a11270943e",
+   "title": "ساخت بسیاری از فیلم‌های من برای خیلی از منتقدان آرزوست/…",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/194191-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D9%85-%D9%87%D8%A7%DB%8C-%D9%85%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%DB%8C%D9%84%DB%8C-%D8%A7%D8%B2-%D9%85%D9%86%D8%AA%D9%82%D8%AF%D8%A7%D9%86-%D8%A2%D8%B1%D8%B2%D9%88%D8%B3%D8%AA-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B3%D8%AA-%D9%87%D8%B1-%D9%81%DB%8C%D9%84%D9%85%D8%B3%D8%A7%D8%B2%DB%8C-%DA%A9%D9%87-%D8%AA%D9%88%D8%A7%D9%86%D8%B3%D8%AA-%D9%85%D8%B1%D8%AF%D9%85-%D8%B1%D8%A7-%D8%A8%D8%AE%D9%86%D8%AF%D8%A7%D9%86%D8%AF-%D8%A8%D9%88%D8%B3%DB%8C%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "aeec96d4e2e7",
+   "title": "کلاس عکاسی پرتره",
+   "url": "https://yphc.ir/academy/courses/portrait-photography/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "ac97144e740c",
+   "title": "آموزش عکاسی دندانپزشکی",
+   "url": "https://academy.didnegar.com/product/dental-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "a8c8860e73f0",
+   "title": "فیلم آموزش کار با گیمبال ژیون ویبیل 2 Zhiyun-Tech WEEBILL-2 Gimbal",
+   "url": "https://academy.didnegar.com/product/zhiyun-tech-weebill-2-the-complete-beginners-guide/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "a56351e96a4f",
+   "title": "پوستر چهل‌وسومین جشنواره بین‌المللی فیلم کوتاه تهران رونمایی شد",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208550-%D9%BE%D9%88%D8%B3%D8%AA%D8%B1-%DA%86%D9%87%D9%84-%D9%88%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "a4f135e5b106",
+   "title": "عکاسی نوزاد: ویژه عکاسی استودیویی (ترکیب بندی)",
+   "url": "https://academy.didnegar.com/baby-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "a4738552cdda",
+   "title": "دوره آموزش عکاسی دیجیتال",
+   "url": "https://academy.didnegar.com/product/digital-photography-class/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "a25d966adee6",
+   "title": "چهره‌های علمی و دانشگاهی در نشست‌های «سینماحقیقت»",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/204985-%DA%86%D9%87%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%DB%8C-%D8%AF%D8%B1-%D9%86%D8%B4%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D8%AD%D9%82%DB%8C%D9%82%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "a20cd59fc4fa",
+   "title": "دختران هنرستانی تهران در رویداد «نوربین» فیلم مستند می‌سازند /رویداد توانمندسازی هنرجویان نوجوان",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/205546-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86-%D9%87%D9%86%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D9%86%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D9%81%DB%8C%D9%84%D9%85-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D9%85%DB%8C-%D8%B3%D8%A7%D8%B2%D9%86%D8%AF-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D8%AA%D9%88%D8%A7%D9%86%D9%85%D9%86%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-%D9%87%D9%86%D8%B1%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "9d7409ef2491",
+   "title": "معرفی کتاب مقامات اولیاء + فیلم",
+   "url": "https://honaronline.ir/بخش-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-8/188707-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%DA%A9%D8%AA%D8%A7%D8%A8-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%88%D9%84%DB%8C%D8%A7%D8%A1-%D9%81%DB%8C%D9%84%D9%85",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "99fb13e3c8e9",
+   "title": "آموزش عکاسی دیجیتال مقدماتی تا پیشرفته",
+   "url": "https://academy.didnegar.com/digital-photography-learning/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "97eecff2bcd4",
+   "title": "کارگاه نقد و تحلیل عکس",
+   "url": "https://mftzf.com/course/کارگاه-نقد-و-تحلیل-عکس",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "94c32c943cad",
+   "title": "بیست‌وپنجمین نمایشگاه شیرینی و شکلات در نمایشگاه بین المللی تهران",
+   "url": "https://yphc.ir/photo/239112/%d8%a8%db%8c%d8%b3%d8%aa%d9%88%d9%be%d9%86%d8%ac%d9%85%db%8c%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%b4%db%8c%d8%b1%db%8c%d9%86%db%8c-%d9%88-%d8%b4%da%a9%d9%84%d8%a7%d8%aa/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "90f06104562f",
+   "title": "رتوش عکس در فتوشاپ (آنلاین)",
+   "url": "https://mftzf.com/course/رتوش-عکس-در-فتوشاپ-آنلاین",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "8e68214316e5",
+   "title": "کارگاه های عکاسی",
+   "url": "https://club.yphc.ir/practical-photography-workshops/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "8e172b491651",
+   "title": "عکسهای برتر جهان",
+   "url": "https://yphc.ir/news/top-photos-world/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "8ad513c7cdd6",
+   "title": "ورکشاپ عکاسی پرتره تا رتوش",
+   "url": "https://mftzf.com/course/ورکشاپ-عکاسی-پرتره-تا-رتوش",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "85fad87e1b32",
+   "title": "جشنواره بین‌المللی‌ فیلم مقاومت آبان برگزار می‌شود",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208546-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D9%81%DB%8C%D9%84%D9%85-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "80597dc36e69",
+   "title": "ورکشاپ های عکاسی",
+   "url": "https://academy.didnegar.com/product-category/photography-workshops/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "7e9645ada613",
+   "title": "استفاده از نور محیط در عکاسی خیابانی",
+   "url": "https://academy.didnegar.com/ambient-light-in-street-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "7d5df6cb48d9",
+   "title": "اظهارنظر فرح‌بخش در خصوص واکنش برخی سینماگران نسبت به رونق گیشه",
+   "url": "https://honaronline.ir/بخش-%D9%87%D9%86%D8%B1%DA%AF%D8%B1%D8%AF%DB%8C-105/194273-%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D9%86%D8%B8%D8%B1-%D9%81%D8%B1%D8%AD-%D8%A8%D8%AE%D8%B4-%D8%AF%D8%B1-%D8%AE%D8%B5%D9%88%D8%B5-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D9%86%D8%B3%D8%A8%D8%AA-%D8%A8%D9%87-%D8%B1%D9%88%D9%86%D9%82-%DA%AF%DB%8C%D8%B4%D9%87",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "7c6feccc9280",
+   "title": "اولین نمایشگاه هنرجویان دوره عکاسی پایه",
+   "url": "https://yphc.ir/gallery/academy1/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "77becddce5a5",
+   "title": "دوره عکاسی صنعتی و تبلیغاتی",
+   "url": "https://academy.didnegar.com/product/advertising-photography-class/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "76581af56e71",
+   "title": "دورهمی های عکاسی",
+   "url": "https://club.yphc.ir/gathering/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "6fbafc184a99",
+   "title": "فیلم های آموزشی",
+   "url": "https://academy.didnegar.com/product-category/educational-videos/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "6e5eceb57415",
+   "title": "نمایشگاه عکس جوانان و زندگی روزمره",
+   "url": "https://yphc.ir/gallery/%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%b9%da%a9%d8%b3-%d8%ac%d9%88%d8%a7%d9%86%d8%a7%d9%86-%d9%88-%d8%b2%d9%86%d8%af%da%af%db%8c-%d8%b1%d9%88%d8%b2%d9%85%d8%b1%d9%87/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "6b2f6ad4fb8d",
+   "title": "دوره عکاسی پرتره و مدلینگ",
+   "url": "https://academy.didnegar.com/product/prtrait-modeling-photography-class/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "69f05a9c6cec",
+   "title": "هدف بسیاری از سینماگران، فیلم خوب ساختن نیست/ خیلی از…",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/194121-%D9%87%D8%AF%D9%81-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85-%D8%AE%D9%88%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA%D9%86-%D9%86%DB%8C%D8%B3%D8%AA-%D8%AE%DB%8C%D9%84%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%B1%DA%AF%D8%A7%D9%86-%D9%87%D8%A7-%D9%86%D9%87%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%D9%85%D8%B3%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D8%AF%D8%B1%D8%B3%D8%AA%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%AE%D9%88%D8%AF%D8%B4%D8%A7%D9%86-%D9%86%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "6928fb2e03f8",
+   "title": "آشنایی با دوربین عکاسی دیجیتال؛ نکات آموزشی حرفه‌ای",
+   "url": "https://academy.didnegar.com/digital-camera-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "67d6f8c8175e",
+   "title": "دومین نمایشگاه گروهی عکس سرزمین پارسی",
+   "url": "https://yphc.ir/gallery/sarzaminparsi2/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "67b8931a2bca",
+   "title": "برگزاری نشست خبری نمایشگاه «پلاست‌شو» در اتاق بازرگانی تهران",
+   "url": "https://yphc.ir/photo/239136/%d8%a8%d8%b1%da%af%d8%b2%d8%a7%d8%b1%db%8c-%d9%86%d8%b4%d8%b3%d8%aa-%d8%ae%d8%a8%d8%b1%db%8c-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d9%be%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d9%88/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "61abc3598302",
+   "title": "نشست های عکاسی",
+   "url": "https://yphc.ir/club/meeting-photography/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "5f39ea4a0cc3",
+   "title": "دومین نمایشگاه عکس دبیرستان مهر",
+   "url": "https://yphc.ir/gallery/mehr2/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "5f375fb3bd34",
+   "title": "«دختر غزه» در مراحل پایانی تولید/ نگاه ضدجنگ در فیلم کوتاه",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/205532-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%BA%D8%B2%D9%87-%D8%AF%D8%B1-%D9%85%D8%B1%D8%A7%D8%AD%D9%84-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%86%DA%AF%D8%A7%D9%87-%D8%B6%D8%AF%D8%AC%D9%86%DA%AF-%D8%AF%D8%B1-%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D9%88%D8%AA%D8%A7%D9%87",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "5ba644f452c2",
+   "title": "پکیج کسب درآمد از عکاسی",
+   "url": "https://academy.didnegar.com/product/the-package-of-earning-money-from-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "5a1680a56a42",
+   "title": "فیلم «کیمیاگر»",
+   "url": "https://tmoca.com/events/cinematheque/cinematheque-3/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "52e5c10220a8",
+   "title": "در باب اهمیت درخشیدن در رویداد‌های مهم سینمایی/ درخشش «در آغوش…",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/195560-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%87%D9%85%DB%8C%D8%AA-%D8%AF%D8%B1%D8%AE%D8%B4%DB%8C%D8%AF%D9%86-%D8%AF%D8%B1-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D9%87%D8%A7%DB%8C-%D9%85%D9%87%D9%85-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%AF%D8%B1-%D8%A2%D8%BA%D9%88%D8%B4-%D8%AF%D8%B1%D8%AE%D8%AA-%D8%AF%D8%B1-%D8%A7%D8%B3%DA%A9%D8%A7%D8%B1-%D8%AF%D9%88%D8%B1-%D8%A7%D8%B2-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "5047551409f7",
+   "title": "عکاسی طلا و جواهر؛ نکاتی برای عکاسی با کیفیت",
+   "url": "https://academy.didnegar.com/jewelry-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "4d4cd247523d",
+   "title": "رتوش عکس در فتوشاپ",
+   "url": "https://mftzf.com/course/رتوش-عکس-در-فتوشاپ",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "4baa2da66969",
+   "title": "انتشار فراخوان ملی مسابقه عکس و فیلم «آیینه سوگ ایل»",
+   "url": "https://yphc.ir/news/104127/%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87-%d8%b9%da%a9%d8%b3-%d9%88-%d9%81%db%8c%d9%84%d9%85-%d8%a2%db%8c%db%8c%d9%86%d9%87-%d8%b3%d9%88%da%af-%d8%a7%db%8c%d9%84/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "46c416b31c15",
+   "title": "عکاسی و تصویر برداری ←",
+   "url": "https://mftzf.com/departments/هنر-و-سینما/عکاسی-و-تصویر-برداری",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "446aade253ef",
+   "title": "نمایشگاه گروهی عکس وارش",
+   "url": "https://yphc.ir/gallery/warsh-photo-exhibition/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "42ad4cdf653d",
+   "title": "کارگاه آموزشی «آشنایی با فرایند چاپ سایانوتایپ»",
+   "url": "https://tmoca.com/news/workshops-4/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "41a821eae08a",
+   "title": "تدوین و جلوه های ویژه",
+   "url": "https://mftzf.com/departments/%D9%87%D9%86%D8%B1-%D9%88-%D8%B3%DB%8C%D9%86%D9%85%D8%A7/%D8%AA%D8%AF%D9%88%DB%8C%D9%86-%D9%88-%D8%AC%D9%84%D9%88%D9%87-%D9%87%D8%A7%DB%8C-%D9%88%DB%8C%DA%98%D9%87",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "41a226a1fbc3",
+   "title": "اکران فیلم‌های سینمایی برای جوانان معتکف",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/205575-%D8%A7%DA%A9%D8%B1%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D9%85%D8%B9%D8%AA%DA%A9%D9%81",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "40fe83a8dabf",
+   "title": "آموزش عکاسی مد و فشن حرفه‌ای",
+   "url": "https://academy.didnegar.com/product/fashion-style-photography-masterclass/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "404e5ca1abb4",
+   "title": "بهترین آموزش عکاسی پرتره",
+   "url": "https://academy.didnegar.com/portrait-photography-learning/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "3ecdea040a7e",
+   "title": "فیلم مستند « چمدان آبی»",
+   "url": "https://tmoca.com/events/cinematheque/%d9%81%db%8c%d9%84%d9%85-%d9%85%d8%b3%d8%aa%d9%86%d8%af-%da%86%d9%85%d8%af%d8%a7%d9%86-%d8%a2%d8%a8%db%8c/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "3e7982f2d33c",
+   "title": "فراخوان جشنواره ها",
+   "url": "https://yphc.ir/news/competitions-and-festivals/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "3bc3c6c97e8b",
+   "title": "زیبایی شناسی در عکاسی",
+   "url": "https://academy.didnegar.com/aesthetics-of-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "3a51cde16a5e",
+   "title": "چگونه مدرک فنی حرفه ای عکاسی بگیرم؟",
+   "url": "https://academy.didnegar.com/technical-and-professional-degree-in-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "37dd527d5847",
+   "title": "آموزش 0 تا 100 عکاسی",
+   "url": "https://academy.didnegar.com/product-category/photography-courses/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "359cfd324c87",
+   "title": "«به قلم سوگند» به روایت نویسنده اثر+فیلم",
+   "url": "https://honaronline.ir/بخش-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-8/189013-%D8%A8%D9%87-%D9%82%D9%84%D9%85-%D8%B3%D9%88%DA%AF%D9%86%D8%AF-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D9%86%D9%88%DB%8C%D8%B3%D9%86%D8%AF%D9%87-%D8%A7%D8%AB%D8%B1-%D9%81%DB%8C%D9%84%D9%85",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "35425423a5ff",
+   "title": "آموزش آنلاین عکاسی جامع",
+   "url": "https://academy.didnegar.com/product/online-digital-photography-training/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "34ea31e96dff",
+   "title": "کلاس عکاسی پایه",
+   "url": "https://yphc.ir/academy/courses/basic-photography/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "34c2a7e4ee09",
+   "title": "گزارش «هنرآنلاین» از 10 فیلم خاطره انگیز «آلن دلون»…",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/194582-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D9%87%D9%86%D8%B1%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D9%85-%D8%AE%D8%A7%D8%B7%D8%B1%D9%87-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2-%D8%A2%D9%84%D9%86-%D8%AF%D9%84%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "2ba6230725aa",
+   "title": "مقایسه عکاسی صنعتی و تبلیغاتی (معرفی و بررسی کامل)",
+   "url": "https://mftniavaran.com/article/commercial-vs-advertising-photography/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "28b7fb8f5032",
+   "title": "دوره آموزش فیلمبرداری",
+   "url": "https://academy.didnegar.com/product-category/filming-courses/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "26ee642425a2",
+   "title": "دورهمی های عکاسی",
+   "url": "https://yphc.ir/club/gathering/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "268c299635bf",
+   "title": "فراخوان نمایشگاه عکس «این‌جا ایران است…»",
+   "url": "https://yphc.ir/gallery/%d9%81%d8%b1%d8%a7%d8%ae%d9%88%d8%a7%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%b9%da%a9%d8%b3%db%8c-%d8%a7%db%8c%d9%86%d8%ac%d8%a7-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d8%a7/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "exhibition",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "2541b1badd46",
+   "title": "آموزش حرفه ای اصلاح رنگ در فیلم",
+   "url": "https://academy.didnegar.com/color-correction-in-video/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "224edcc0ec30",
+   "title": "اصغر نصیری کارگردان و تهیه‌کننده سینما درگذشت",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/204867-%D8%A7%D8%B5%D8%BA%D8%B1-%D9%86%D8%B5%DB%8C%D8%B1%DB%8C-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%AF%D8%A7%D9%86-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "1faf06807673",
+   "title": "عکاسی تبلیغاتی از بافت و پارچه",
+   "url": "https://academy.didnegar.com/product/advertising-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "1b717cfcb296",
+   "title": "همه چیز درباره رنگ در عکاسی نوزاد",
+   "url": "https://academy.didnegar.com/color-in-baby-photogeraphy/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "1b1ddf3a0e3a",
+   "title": "کارگاه عملی تکنیک های عکاسی پرتره با نور طبیعی در کاخ سعد آباد برگزار شد.",
+   "url": "https://yphc.ir/club/8179/%da%a9%d8%a7%d8%b1%da%af%d8%a7%d9%87-%d8%b9%d9%85%d9%84%db%8c-%d8%aa%da%a9%d9%86%db%8c%da%a9-%d9%87%d8%a7%db%8c-%d8%b9%da%a9%d8%a7%d8%b3%db%8c-%d9%be%d8%b1%d8%aa%d8%b1%d9%87-%d8%a8%d8%a7-%d9%86%d9%88/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "1360746412c7",
+   "title": "رنگ بندی در عکاسی تئاتر: نکات شگفت انگیز",
+   "url": "https://academy.didnegar.com/color-grading-in-theater-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "104632505d1c",
+   "title": "عکاسی کودک و نوزاد",
+   "url": "https://academy.didnegar.com/product/baby-and-child-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "0d1d9d3412f8",
+   "title": "عکاسی و تصویر برداری",
+   "url": "https://mftzf.com/departments/%D9%87%D9%86%D8%B1-%D9%88-%D8%B3%DB%8C%D9%86%D9%85%D8%A7/%D8%B9%DA%A9%D8%A7%D8%B3%DB%8C-%D9%88-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "0b4825f79680",
+   "title": "کارگاه های عکاسی",
+   "url": "https://yphc.ir/club/practical-photography-workshops/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "0ac907a5d117",
+   "title": "دوره ساخت تیزر (فیلمبرداری و تولید محتوا)",
+   "url": "https://academy.didnegar.com/product/promotional-video-class-lighting-filming/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "08234a326161",
+   "title": "دوره آموزش ادیت عکس",
+   "url": "https://academy.didnegar.com/product/product-photoshop-photo-editing-course/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  },
+  {
+   "id": "02072f23aa7c",
+   "title": "نقدی به فیلم «چرا گریه نمی‌کنی؟»/ چرا گریه نمی‌کنیم!",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/194483-%D9%86%D9%82%D8%AF%DB%8C-%D8%A8%D9%87-%D9%81%DB%8C%D9%84%D9%85-%DA%86%D8%B1%D8%A7-%DA%AF%D8%B1%DB%8C%D9%87-%D9%86%D9%85%DB%8C-%DA%A9%D9%86%DB%8C-%DA%86%D8%B1%D8%A7-%DA%AF%D8%B1%DB%8C%D9%87-%D9%86%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08"
+  }
+ ],
+ "updated": "2026-10-08T21:10+00:00"
+}
