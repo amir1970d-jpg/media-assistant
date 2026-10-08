@@ -1,0 +1,13 @@
+[
+  {"name": "تیوال", "url": "https://www.tiwall.com", "default_kind": "event"},
+  {"name": "کارنامه", "url": "https://karnameh.com", "default_kind": "workshop"},
+  {"name": "خانه هنرمندان ایران", "url": "https://iranartistsforum.ir", "default_kind": "event"},
+  {"name": "موزه هنرهای معاصر تهران", "url": "https://tmoca.com", "default_kind": "exhibition"},
+  {"name": "مدرسه فیلمسازی مستند دانشگاه تهران", "url": "https://eec.ut.ac.ir", "default_kind": "workshop"},
+  {"name": "باشگاه عکاسان جوان", "url": "https://yphc.ir", "default_kind": "workshop"},
+  {"name": "آکادمی دیدنگار", "url": "https://academy.didnegar.com", "default_kind": "workshop"},
+  {"name": "مجتمع فنی تهران - نیاوران", "url": "https://mftniavaran.com/department/culture-art/", "default_kind": "workshop"},
+  {"name": "مجتمع فنی تهران - زعفرانیه", "url": "https://mftzf.com/departments/هنر-و-سینما/عکاسی-و-تصویر-برداری", "default_kind": "workshop"},
+  {"name": "هنرآنلاین", "url": "https://honaronline.ir", "default_kind": "news"},
+  {"name": "ایسنا", "url": "https://www.isna.ir", "default_kind": "news"}
+]

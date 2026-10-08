@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>دستیار رسانه</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#e9ecef;--ink:#16212b;--mute:#5d6b78;--line:#c9d0d6;--card:#f6f7f8;--sig:#0b6b66}
+@media (prefers-color-scheme:dark){:root{--bg:#10171d;--ink:#e6eaee;--mute:#8d9aa6;--line:#27333d;--card:#17212a;--sig:#3fc1b8}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.8 Vazirmatn,Tahoma,sans-serif}
+main{max-width:760px;margin:0 auto;padding:28px 16px 60px}
+h1{font-weight:800;font-size:2rem;margin:0}
+.sub{color:var(--mute);margin:2px 0 22px;font-size:.9rem}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.bar button,.bar input{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:5px 14px;border-radius:6px}
+.bar button[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.bar input{flex:1;min-width:140px}
+button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--sig);outline-offset:2px}
+ul{list-style:none;margin:0;padding:0}
+li{background:var(--card);border-inline-start:4px solid var(--line);padding:10px 14px;margin-bottom:8px}
+li.new{border-inline-start-color:var(--sig)}
+li a{color:var(--ink);font-weight:600;text-decoration:none}
+li a:hover{text-decoration:underline}
+.meta{font-size:.82rem;color:var(--mute)}
+.badge{color:var(--sig);font-weight:800;margin-inline-start:6px}
+details{margin-top:28px;color:var(--mute);font-size:.88rem}
+#health li{background:none;border:0;padding:0;margin:0}.err{color:#b3261e}
+.empty{padding:30px 0;color:var(--mute)}
+</style>
+</head>
+<body>
+<main>
+<h1>دستیار رسانه</h1>
+<p class="sub" id="upd">در حال بارگذاری…</p>
+<div class="bar" id="tabs"></div>
+<div class="bar"><input id="q" type="search" placeholder="جستجو در عنوان‌ها" aria-label="جستجو"></div>
+<ul id="list"></ul>
+<details><summary>وضعیت منابع</summary><ul id="health"></ul></details>
+</main>
+<script>
+const KINDS=[["all","همه"],["workshop","کارگاه و کلاس"],["exhibition","نمایشگاه"],["news","اخبار"]];
+const fa=d=>new Date(d).toLocaleDateString("fa-IR-u-ca-persian",{day:"numeric",month:"long"});
+let data={items:[],sources:[]},kind="all",lastVisit=null;
+try{lastVisit=localStorage.getItem("lastVisit")}catch(e){}
+const $=id=>document.getElementById(id);
+function tabs(){$("tabs").innerHTML="";KINDS.forEach(([k,t])=>{const b=document.createElement("button");b.textContent=t;b.setAttribute("aria-pressed",k===kind);b.onclick=()=>{kind=k;tabs();render()};$("tabs").append(b)})}
+function isNew(i){return lastVisit?i.first_seen>lastVisit:false}
+function render(){
+  const q=$("q").value.trim();
+  const rows=data.items.filter(i=>(kind==="all"||i.kind===kind)&&(!q||i.title.includes(q)));
+  $("list").innerHTML=rows.length?"":'<li class="empty">موردی پیدا نشد.</li>';
+  rows.forEach(i=>{const li=document.createElement("li");if(isNew(i))li.className="new";
+    const a=document.createElement("a");a.href=i.url;a.target="_blank";a.rel="noopener";a.textContent=i.title;
+    const m=document.createElement("div");m.className="meta";m.textContent=i.source+" | دیده‌شده از "+fa(i.first_seen);
+    if(isNew(i)){const b=document.createElement("span");b.className="badge";b.textContent="جدید";m.append(b)}
+    li.append(a,m);$("list").append(li)});
+}
+fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{data=d;
+  $("upd").textContent=d.updated?"آخرین تغییر داده‌ها: "+new Date(d.updated).toLocaleString("fa-IR",{dateStyle:"medium",timeStyle:"short"}):"هنوز داده‌ای جمع نشده؛ اجرای اول را در GitHub Actions بزن.";
+  $("health").innerHTML="";d.sources.forEach(x=>{const li=document.createElement("li");
+    li.textContent=x.name+": "+(x.status==="ok"?x.count+" مورد":"خطا - "+(x.error||""));
+    if(x.status!=="ok")li.className="err";$("health").append(li)});
+  tabs();render();
+  try{localStorage.setItem("lastVisit",new Date().toISOString().slice(0,10))}catch(e){}
+}).catch(()=>{$("upd").textContent="data.json بارگذاری نشد."});
+$("q").oninput=render;tabs();
+</script>
+</body>
+</html>
