@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 11
+   "count": 15
   },
   {
    "name": "کارنامه",
@@ -70,6 +70,33 @@
  ],
  "items": [
   {
+   "id": "eef9ce89268e",
+   "title": "فیلم‌تئاتر آوازه خوان خیابان های منهتن ۳۰ ★ ۴٫۰ ک: میکاییل شهرستانی / ن: نیما مهر ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/manhatanavazekhan2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "e6994902b047",
+   "title": "فیلم‌تئاتر عند از مطالبه ۷ ★ ۳٫۳ ک: سامان خلیلیان / ن: مرتضی شاه کرم ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/endazmotalebe4",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "e407b5845d66",
+   "title": "فیلم‌تئاتر دوازده خشمگین ۱۱ ★ ۳٫۶ ک: بهرام برخورداری ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/twelve.angry",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
    "id": "c75d8c450852",
    "title": "فیلم‌تئاتر فردا ۷۲ ★ ۴٫۴ شروع مجدد اجراها از۱۰مهر۱۴۰۳ ن و ک: امین اسفندیار ۱۵۰,۰۰۰ تومان",
    "url": "https://www.tiwall.com/p/farda.molavi2",
@@ -88,9 +115,45 @@
    "last_seen": "2026-10-09"
   },
   {
+   "id": "ba862d43f8df",
+   "title": "نمایش بوران ۱۲ ★ ۴٫۳ ک: کامبیز بنان / ن: علی دلگشایی تئاترشهر - کارگاه نمایش ۰۱ تا ۲۴ مهر ۱۹:۴۵ ۲۵۰,۰۰۰ تومان خرید بلیت",
+   "url": "https://www.tiwall.com/p/bouran",
+   "source": "تیوال",
+   "kind": "workshop",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "b62616a1866b",
+   "title": "چین و عربستان هم آمدند؛ ۹۸ کشور در رقابت بهترین فیلم بین‌المللی اسکار",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208555-%DA%86%DB%8C%D9%86-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D9%85-%D8%A2%D9%85%D8%AF%D9%86%D8%AF-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%DB%8C%D9%84%D9%85-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%A7%D8%B3%DA%A9%D8%A7%D8%B1",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
    "id": "9d659647d6f7",
    "title": "فیلم‌تئاتر اپرای کاسپار ن و ک: سیمین اسکندری ۱۲۰,۰۰۰ تومان خرید",
    "url": "https://www.tiwall.com/p/opera.caspar",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "7a163c058cd4",
+   "title": "فیلم‌تئاتر درخشنگ ن و ک: علیرضا آقایی ۸,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/derakhshang3",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "76aad1103cb6",
+   "title": "نمایش با_زی_با منتخب بیستمین جشنواره‌ی تئاتر دانشگاهی ن و ک: علیرضا اجلی مجموعه تئاتر لبخند - سالن دو از ۱۹ مهر ۲۱:۳۰ ۵۰۰,۰۰۰ تومان خرید بلیت",
+   "url": "https://www.tiwall.com/p/ba.zi.ba2",
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-09",
@@ -133,9 +196,36 @@
    "last_seen": "2026-10-09"
   },
   {
+   "id": "3ad46e1427db",
+   "title": "فیلم‌تئاتر تونل ۷ ★ ۲٫۷ به همراه مصاحبه با کارگردان، نویسنده و بازیگران ک: سیامک احصایی / ن: فارس باقری ۱۵۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/tonel2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
    "id": "3a703ee6adaa",
    "title": "فیلم‌تئاتر چند تکه‌ی لغزان بر لبه‌ی سران یک وضعیت پیچان ۱ ★ ۰٫۰ کاری از گروه نئوتهران ن و ک: علیرضا اجلی ۱۲۰,۰۰۰ تومان خرید",
    "url": "https://www.tiwall.com/p/chandtekeh.laghzan4",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "36a963fc5fb0",
+   "title": "اکران فیلم تئاتری خاطره‌انگیز هادی حجاری‌فر و «قحط‌الرجال»",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208556-%D8%A7%DA%A9%D8%B1%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1%DB%8C-%D8%AE%D8%A7%D8%B7%D8%B1%D9%87-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2-%D9%87%D8%A7%D8%AF%DB%8C-%D8%AD%D8%AC%D8%A7%D8%B1%DB%8C-%D9%81%D8%B1-%D9%82%D8%AD%D8%B7-%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "358795e60e22",
+   "title": "فیلم‌تئاتر پری باد ۱ ★ ۰٫۰ paribaad ن و ک: امید اسدی ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/pari.baad2",
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-09",
@@ -151,9 +241,45 @@
    "last_seen": "2026-10-09"
   },
   {
+   "id": "289976fc48f4",
+   "title": "نمایش ساکن کمپ پناهندگان ۲ ★ ۰٫۰ بر اساس واقعیت ک: سینا خیرخواه / ن: امیر دژاکام تماشاخانه هیلاج - کارگاه نمایش ۱۵ تا ۲۴ مهر ۱۹:۰۰ ۳۵۰,۰۰۰ تومان خرید بلیت",
+   "url": "https://www.tiwall.com/p/camp3",
+   "source": "تیوال",
+   "kind": "workshop",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "2313b23c9ed2",
+   "title": "فیلم‌تئاتر مسیح اجباری ک: حسین شعبانی، سارار داروفروش / ن: رضا آشفته ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/masiheejbari2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "222349cc0020",
+   "title": "فیلم‌تئاتر خاکستری ۳ ★ ۰٫۰ ن و ک: شایان افکاری ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/khakestari2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
    "id": "1ec6f7e6c101",
    "title": "نمایش درس ک: بهزاد عشقی / ن: اوژن یونسکو آموزشگاه سینمایی پروین - رشت ۲۰ تا ۳۰ مهر ۲۰:۰۰ ۳۰۰,۰۰۰ تومان خرید بلیت رشت",
    "url": "https://www.tiwall.com/p/dars6",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "1be2ac901650",
+   "title": "فیلم‌تئاتر پسر نیل ک: ناصر آویژه / ن: گیتا داودی ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/pesarenil2",
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-09",
@@ -165,6 +291,15 @@
    "url": "https://www.tiwall.com/p/montazer",
    "source": "تیوال",
    "kind": "workshop",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09"
+  },
+  {
+   "id": "0f268e2176c3",
+   "title": "نمایش جشنواره موش‌ها ک: حسین کلانتر / ن: مهدی ملکی بوتیک هنر ایران - سالن ۷ ۱۹ مهر تا ۰۵ آبان ۲۱:۰۰ ۳۵۰,۰۰۰ تومان خرید بلیت ٪۲۰",
+   "url": "https://www.tiwall.com/p/mouses2",
+   "source": "تیوال",
+   "kind": "other",
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-09"
   },
@@ -1123,5 +1258,5 @@
    "last_seen": "2026-10-08"
   }
  ],
- "updated": "2026-10-09T12:04+00:00"
+ "updated": "2026-10-09T18:04+00:00"
 }
