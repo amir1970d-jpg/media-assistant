@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 13
+   "count": 11
   },
   {
    "name": "کارنامه",
@@ -52,8 +52,9 @@
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
    "url": "https://mftzf.com/departments/هنر-و-سینما/عکاسی-و-تصویر-برداری",
-   "status": "ok",
-   "count": 11
+   "status": "error",
+   "error": "HTTPSConnectionPool(host='mftzf.com', port=443): Read timed out. (read timeout=25)",
+   "count": 0
   },
   {
    "name": "هنرآنلاین",
@@ -97,9 +98,36 @@
    "last_seen": "2026-10-10"
   },
   {
+   "id": "f949d8ddaf13",
+   "title": "فیلم‌تئاتر ای نون دلقک خنده میتواند یک سلاح باشد. ن و ک: سعید فاضلی ۱۵۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/dalghak9",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "ed9ed2fd603b",
+   "title": "فیلم‌تئاتر آنکه گفت آری، آنکه گفت نه ۶ ★ ۳٫۰ محصول گروه تئاتر چکاوک ک: هومن رهنمون / ن: برتولت برشت ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/ankegoft2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
    "id": "eb92a7d243fb",
    "title": "فیلم‌تئاتر هنر جدل بر سر تابلوی سفید؟ آیا تمام مسئله این است؟ ک: محمد منصور / ن: یاسمینا رضا ۱۲۰,۰۰۰ تومان خرید",
    "url": "https://www.tiwall.com/p/honar14",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "dca2d4d20cb0",
+   "title": "فیلم‌تئاتر دختر کدو تنبل به مناسبت هفته ملی کودک تماشای این فیلم‌تیاتر تا جمعه ۲۰ مهر رایگان است. ک: علی پاکدست، مریم اقبالی / ن: شادی پورمهری ۸,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/dokhtarekadoutanbal",
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-10",
@@ -118,6 +146,15 @@
    "id": "bad37f2a5eff",
    "title": "فیلم‌تئاتر آکواریوم ۳ ★ ۰٫۰ ک: تقی علی آبادی / ن: خداداد رضایی ۱۲۰,۰۰۰ تومان خرید",
    "url": "https://www.tiwall.com/p/aquarium3",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "b5ce66e2a792",
+   "title": "فیلم‌تئاتر زنان بالکان ۱ ★ ۰٫۰ ک: حسین شهبازی / ن: جولز تاسکا ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/zanan.balkan2",
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-10",
@@ -169,11 +206,29 @@
    "last_seen": "2026-10-10"
   },
   {
+   "id": "7ede028732d3",
+   "title": "فیلم‌تئاتر به خاطر سارا ۵ ★ ۴٫۲ ک: حمید گلی / ن: داوود کیانیان ۸,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/bekhateresara",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
    "id": "6e63e608f813",
    "title": "فیلم‌تئاتر اندر حکایت یوسف و زلیخا ک: کوروش رخشنده پی / ن: داوود فتحعلی بیگی ۱۵۰,۰۰۰ تومان خرید",
    "url": "https://www.tiwall.com/p/yousef.zoleikha3",
    "source": "تیوال",
    "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "6bf7f8c3fa2d",
+   "title": "سینماها در هفته گذشته ۵۹۸ هزار مخاطب داشتند",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208557-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D9%87%D8%A7-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%D8%AE%D8%A7%D8%B7%D8%A8-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
    "first_seen": "2026-10-10",
    "last_seen": "2026-10-10"
   },
@@ -196,6 +251,24 @@
    "last_seen": "2026-10-10"
   },
   {
+   "id": "407610511b9f",
+   "title": "تمدید شد | نمایشگاه «این صورت باقی» تا ۲۴ مهرماه",
+   "url": "https://tmoca.com/news/%d8%aa%d9%85%d8%af%db%8c%d8%af-%d8%b4%d8%af-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a7%db%8c%d9%86-%d8%b5%d9%88%d8%b1%d8%aa-%d8%a8%d8%a7%d9%82%db%8c-%d8%aa%d8%a7-%db%b2/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "39ae45ba9fac",
+   "title": "فیلم‌تئاتر شازده کوچولو ۲ ★ ۰٫۰ ک: آناهیتا غنی زاده / ن: بهرام جلالی پور ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/littleprince10",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
    "id": "38e327c35881",
    "title": "فیلم‌تئاتر وصال خوانی درباره‌ی چند بیشعور ۲ ★ ۰٫۰ بیشعور ک: پورنیک کاوش / ن: بهمن ولیان، پورنیک کاوش ۴۰,۰۰۰ تومان",
    "url": "https://www.tiwall.com/p/bishour2",
@@ -208,6 +281,15 @@
    "id": "23360681245e",
    "title": "فیلم‌تئاتر افسانه پرکو ۳ ★ ۰٫۰ سفری دور به افسانه های ایران زمین ن و ک: ندا عزیزیه ۱۲۰,۰۰۰ تومان خرید",
    "url": "https://www.tiwall.com/p/parko",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "1f966fb0e8fd",
+   "title": "فیلم‌تئاتر شکار مرگ ۶ ★ ۴٫۲ ک: نگار عزیزی / ن: آیرالوین ۱۵۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/shekarmarg2",
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-10",
@@ -1411,5 +1493,5 @@
    "last_seen": "2026-10-08"
   }
  ],
- "updated": "2026-10-10T06:03+00:00"
+ "updated": "2026-10-10T12:03+00:00"
 }
