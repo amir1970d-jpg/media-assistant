@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 11
+   "count": 13
   },
   {
    "name": "کارنامه",
@@ -70,9 +70,27 @@
  ],
  "items": [
   {
+   "id": "ffb4ab851adf",
+   "title": "فیلم‌تئاتر ن مثل نظم ۴ ★ ۰٫۰ ک: گروهی / ن: کار گروهی ۸,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/noonnazm",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
    "id": "fad808f9f153",
    "title": "فیلم‌تئاتر گرگ نامه ن و ک: سید یاسر هاشم زاده ۸,۰۰۰ تومان خرید",
    "url": "https://www.tiwall.com/p/gorgname",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "f9edd7b3ac45",
+   "title": "فیلم‌تئاتر برنامه ریزی برای یک مرگ ابزورد ن و ک: مهدی آذری ۱۵۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/baraye.marg",
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-10",
@@ -106,9 +124,27 @@
    "last_seen": "2026-10-10"
   },
   {
+   "id": "b432bb3d86b5",
+   "title": "فیلم‌تئاتر ارور ۴۰۴ ۱ ★ ۰٫۰ نمایشی از عباس جمالی ن و ک: عباس جمالی ۱۵۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/error4042",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
    "id": "9a4a22d473e2",
    "title": "فیلم‌تئاتر غیر اصولی ۶ ★ ۵٫۰ ن و ک: مجید اصغری ۱۵۰,۰۰۰ تومان خرید",
    "url": "https://www.tiwall.com/p/unprincipled2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "9782c5a90ea3",
+   "title": "فیلم‌تئاتر اپرای عروسکی رستم و سهراب ۲ ★ ۰٫۰ ن و ک: بهروز غریب پور ۱۵۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/opera.rostamsohrab3",
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-10",
@@ -127,6 +163,15 @@
    "id": "86bfcf2e2c06",
    "title": "فیلم‌تئاتر حسنی یه پهلوونه ۱ ★ ۰٫۰ ک: عادل بزدوده / ن: کیوان اقبالی گوران ۸,۰۰۰ تومان خرید",
    "url": "https://www.tiwall.com/p/hasanipahlevon",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "6e63e608f813",
+   "title": "فیلم‌تئاتر اندر حکایت یوسف و زلیخا ک: کوروش رخشنده پی / ن: داوود فتحعلی بیگی ۱۵۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/yousef.zoleikha3",
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-10",
@@ -154,6 +199,24 @@
    "id": "38e327c35881",
    "title": "فیلم‌تئاتر وصال خوانی درباره‌ی چند بیشعور ۲ ★ ۰٫۰ بیشعور ک: پورنیک کاوش / ن: بهمن ولیان، پورنیک کاوش ۴۰,۰۰۰ تومان",
    "url": "https://www.tiwall.com/p/bishour2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "23360681245e",
+   "title": "فیلم‌تئاتر افسانه پرکو ۳ ★ ۰٫۰ سفری دور به افسانه های ایران زمین ن و ک: ندا عزیزیه ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/parko",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10"
+  },
+  {
+   "id": "0348e924bc28",
+   "title": "فیلم‌تئاتر ساختمان زیبا ک: کمال مقدم / ن: مجید حاتمی ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/sakhtemanziba2",
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-10",
@@ -1348,5 +1411,5 @@
    "last_seen": "2026-10-08"
   }
  ],
- "updated": "2026-10-10T00:03+00:00"
+ "updated": "2026-10-10T06:03+00:00"
 }
