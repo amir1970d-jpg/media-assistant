@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 7
+   "count": 1
   },
   {
    "name": "کارنامه",
@@ -46,9 +46,8 @@
   {
    "name": "مجتمع فنی تهران - نیاوران",
    "url": "https://mftniavaran.com/department/culture-art/",
-   "status": "error",
-   "error": "HTTPSConnectionPool(host='mftniavaran.com', port=443): Read timed out. (read timeout=25)",
-   "count": 0
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
@@ -80,6 +79,15 @@
    "last_seen": "2026-11-02"
   },
   {
+   "id": "ae9a8ebcbb6d",
+   "title": "تصمیم شورای عالی سینما برای مسکن هنرمندان",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208789-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B3%DA%A9%D9%86-%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02"
+  },
+  {
    "id": "75b078b285ac",
    "title": "تأثیر نور و شرایط عکاسی بر کیفیت تصویر",
    "url": "https://yphc.ir/news/104304/%d8%aa%d8%a3%d8%ab%db%8c%d8%b1-%d9%86%d9%88%d8%b1-%d9%88-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%d8%b9%da%a9%d8%a7%d8%b3%db%8c-%d8%a8%d8%b1-%da%a9%db%8c%d9%81%db%8c%d8%aa-%d8%aa%d8%b5%d9%88%db%8c%d8%b1/",
@@ -94,6 +102,15 @@
    "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208780-%D8%B1%D9%82%DB%8C%D8%A8-%D8%AE%D8%A7%D9%86%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%86%DB%8C%D8%B3%D8%AA%DB%8C%D9%85-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D9%82%D8%A7%D8%A8%D9%84-%D9%87%D8%B3%D8%AA%DB%8C%D9%85",
    "source": "هنرآنلاین",
    "kind": "news",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02"
+  },
+  {
+   "id": "17dae36db101",
+   "title": "تأملی بر نمایش «قطع رابطه در خانه» نوشته تریستان پتی‌ژرار و کارگردانی مازیار سیدی",
+   "url": "https://www.tiwall.com/news/rabeteh4.etemad",
+   "source": "تیوال",
+   "kind": "other",
    "first_seen": "2026-11-02",
    "last_seen": "2026-11-02"
   },
@@ -2996,5 +3013,5 @@
    "last_seen": "2026-10-29"
   }
  ],
- "updated": "2026-11-02T06:52+00:00"
+ "updated": "2026-11-02T12:42+00:00"
 }
