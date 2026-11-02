@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 6
+   "count": 7
   },
   {
    "name": "کارنامه",
@@ -35,7 +35,7 @@
    "name": "باشگاه عکاسان جوان",
    "url": "https://yphc.ir",
    "status": "ok",
-   "count": 22
+   "count": 23
   },
   {
    "name": "آکادمی دیدنگار",
@@ -46,8 +46,9 @@
   {
    "name": "مجتمع فنی تهران - نیاوران",
    "url": "https://mftniavaran.com/department/culture-art/",
-   "status": "ok",
-   "count": 1
+   "status": "error",
+   "error": "HTTPSConnectionPool(host='mftniavaran.com', port=443): Read timed out. (read timeout=25)",
+   "count": 0
   },
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
@@ -75,6 +76,15 @@
    "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/208781-%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%87%D9%86%D8%B1%D9%87%D8%A7%DB%8C-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA-%D9%85%DB%8C-%DA%A9%D9%86%D9%86%D8%AF",
    "source": "هنرآنلاین",
    "kind": "news",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02"
+  },
+  {
+   "id": "75b078b285ac",
+   "title": "تأثیر نور و شرایط عکاسی بر کیفیت تصویر",
+   "url": "https://yphc.ir/news/104304/%d8%aa%d8%a3%d8%ab%db%8c%d8%b1-%d9%86%d9%88%d8%b1-%d9%88-%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%d8%b9%da%a9%d8%a7%d8%b3%db%8c-%d8%a8%d8%b1-%da%a9%db%8c%d9%81%db%8c%d8%aa-%d8%aa%d8%b5%d9%88%db%8c%d8%b1/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
    "first_seen": "2026-11-02",
    "last_seen": "2026-11-02"
   },
@@ -904,7 +914,7 @@
    "source": "تیوال",
    "kind": "workshop",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18"
+   "last_seen": "2026-11-02"
   },
   {
    "id": "87a4a26aadd7",
@@ -2986,5 +2996,5 @@
    "last_seen": "2026-10-29"
   }
  ],
- "updated": "2026-11-02T00:24+00:00"
+ "updated": "2026-11-02T06:52+00:00"
 }
