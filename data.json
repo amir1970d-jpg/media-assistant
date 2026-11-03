@@ -28,15 +28,14 @@
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
    "url": "https://eec.ut.ac.ir",
-   "status": "error",
-   "error": "HTTPSConnectionPool(host='eec.ut.ac.ir', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTT",
+   "status": "ok",
    "count": 0
   },
   {
    "name": "باشگاه عکاسان جوان",
    "url": "https://yphc.ir",
    "status": "ok",
-   "count": 23
+   "count": 22
   },
   {
    "name": "آکادمی دیدنگار",
@@ -60,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 25
+   "count": 26
   },
   {
    "name": "ایسنا",
@@ -70,6 +69,15 @@
   }
  ],
  "items": [
+  {
+   "id": "4875479dd7d4",
+   "title": "علیرضا تابش دبیر جشنواره ملی فیلم فجر شد",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208790-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%AA%D8%A7%D8%A8%D8%B4-%D8%AF%D8%A8%DB%8C%D8%B1-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%85%D9%84%DB%8C-%D9%81%DB%8C%D9%84%D9%85-%D9%81%D8%AC%D8%B1-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03"
+  },
   {
    "id": "fda05aa6d239",
    "title": "۱۷۳ هنرمند در جشنواره هنرهای تجسمی جوانان رقابت می‌کنند",
@@ -1130,7 +1138,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-03"
   },
   {
    "id": "a05bd681c1c3",
@@ -1202,7 +1210,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-03"
   },
   {
    "id": "314176bbe747",
@@ -1490,7 +1498,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-03"
   },
   {
    "id": "7557d58cc84a",
@@ -3014,5 +3022,5 @@
    "last_seen": "2026-10-29"
   }
  ],
- "updated": "2026-11-02T18:40+00:00"
+ "updated": "2026-11-03T00:25+00:00"
 }
