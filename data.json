@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 1
+   "count": 2
   },
   {
    "name": "کارنامه",
@@ -70,10 +70,46 @@
  ],
  "items": [
   {
+   "id": "e0e9dc71c2bb",
+   "title": "تصاحب صدر جدول توسط «بورسیه»؛ سینما حاشیه‌دار شد!",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208804-%D8%AA%D8%B5%D8%A7%D8%AD%D8%A8-%D8%B5%D8%AF%D8%B1-%D8%AC%D8%AF%D9%88%D9%84-%D8%AA%D9%88%D8%B3%D8%B7-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%AD%D8%A7%D8%B4%DB%8C%D9%87-%D8%AF%D8%A7%D8%B1-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
    "id": "b4fece0007c0",
    "title": "مجموعه عکس «خاطره‌های زمین»",
    "url": "https://yphc.ir/news/104367/%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87-%d8%b9%da%a9%d8%b3-%d8%ae%d8%a7%d8%b7%d8%b1%d9%87%d9%87%d8%a7%db%8c-%d8%b2%d9%85%db%8c%d9%86/",
    "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "687c2ff2306d",
+   "title": "اجرای ۷ اثر در بخش فضای باز و دیگرگونه‌های جشنواره تئاتر کودک و نوجوان",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208809-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AB%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%AE%D8%B4-%D9%81%D8%B6%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2-%D8%AF%DB%8C%DA%AF%D8%B1%DA%AF%D9%88%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%DA%A9%D9%88%D8%AF%DA%A9-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "3ead48134ae7",
+   "title": "فریبا نادری و حامد بهداد در راه سینماها",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208813-%D9%81%D8%B1%DB%8C%D8%A8%D8%A7-%D9%86%D8%A7%D8%AF%D8%B1%DB%8C-%D8%AD%D8%A7%D9%85%D8%AF-%D8%A8%D9%87%D8%AF%D8%A7%D8%AF-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D9%87%D8%A7",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04"
+  },
+  {
+   "id": "2b0a69c641db",
+   "title": "مهلت ثبت‌نام در جشنواره تئاتر «دارا رُخ» افزایش یافت",
+   "url": "https://www.tiwall.com/news/dararokh.fest2",
+   "source": "تیوال",
    "kind": "workshop",
    "first_seen": "2026-11-04",
    "last_seen": "2026-11-04"
@@ -3058,5 +3094,5 @@
    "last_seen": "2026-10-29"
   }
  ],
- "updated": "2026-11-04T00:26+00:00"
+ "updated": "2026-11-04T12:39+00:00"
 }
