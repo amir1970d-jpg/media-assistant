@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 34
+   "count": 35
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 26
+   "count": 28
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,33 @@
   }
  ],
  "items": [
+  {
+   "id": "f15b2f2b6b4a",
+   "title": "از «صبح اعدام» تا «قاتلان ماه کامل» در فیلم‌های آخر هفته تلویزیون",
+   "url": "https://honaronline.ir/بخش-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-28/208816-%D8%A7%D8%B2-%D8%B5%D8%A8%D8%AD-%D8%A7%D8%B9%D8%AF%D8%A7%D9%85-%D8%AA%D8%A7-%D9%82%D8%A7%D8%AA%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D9%87-%DA%A9%D8%A7%D9%85%D9%84-%D8%AF%D8%B1-%D9%81%DB%8C%D9%84%D9%85-%D9%87%D8%A7%DB%8C-%D8%A2%D8%AE%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "c71e0a1c94c8",
+   "title": "معرفی آثار بخش‌های «کودک» و «نوجوان» جشنواره تئاتر کودک و نوجوان",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208818-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A8%D8%AE%D8%B4-%D9%87%D8%A7%DB%8C-%DA%A9%D9%88%D8%AF%DA%A9-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%DA%A9%D9%88%D8%AF%DA%A9-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  {
+   "id": "1d6ce2f53469",
+   "title": "«توپ سیاه» جایزه تماشاگران جشنواره لندن را برد",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208819-%D8%AA%D9%88%D9%BE-%D8%B3%DB%8C%D8%A7%D9%87-%D8%AC%D8%A7%DB%8C%D8%B2%D9%87-%D8%AA%D9%85%D8%A7%D8%B4%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%84%D9%86%D8%AF%D9%86-%D8%B1%D8%A7-%D8%A8%D8%B1%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
   {
    "id": "e0e9dc71c2bb",
    "title": "تصاحب صدر جدول توسط «بورسیه»؛ سینما حاشیه‌دار شد!",
@@ -355,7 +382,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "09dc1d756f0e",
@@ -697,7 +724,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "5266fd040e51",
@@ -724,7 +751,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "02caeaea5fc8",
@@ -733,7 +760,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "fdb61c89afa0",
@@ -1156,7 +1183,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "c8af11b0e18a",
@@ -1165,7 +1192,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "c72874ae0b8b",
@@ -1255,7 +1282,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "455f540e169d",
@@ -1273,7 +1300,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "33d1ced9734b",
@@ -1507,7 +1534,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "c6dc0b4e2bbd",
@@ -1525,7 +1552,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "a06747a11e24",
@@ -2146,7 +2173,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "faa90c344602",
@@ -2164,7 +2191,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "f523a395c41b",
@@ -2191,7 +2218,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "ef0a48325548",
@@ -2200,7 +2227,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "e631608f5021",
@@ -2209,7 +2236,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "e30ba8e842e8",
@@ -2218,7 +2245,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "de2a8cafe720",
@@ -2227,7 +2254,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "dd80fd35183f",
@@ -2236,7 +2263,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "db3d493afb85",
@@ -2245,7 +2272,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "da736223c080",
@@ -2254,7 +2281,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "d6fbe061bf2f",
@@ -2263,7 +2290,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "d65cff50b456",
@@ -2272,7 +2299,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "d56fe4ddc846",
@@ -2281,7 +2308,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "d3ef929d42cc",
@@ -2326,7 +2353,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "cc89528e6293",
@@ -2353,7 +2380,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "c562eba7e09b",
@@ -2398,7 +2425,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "b6d9f85dc779",
@@ -2416,7 +2443,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "b2200cc5940c",
@@ -2425,7 +2452,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "b219afac8aa7",
@@ -2443,7 +2470,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "b0a11270943e",
@@ -2452,7 +2479,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "aeec96d4e2e7",
@@ -2461,7 +2488,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "ac97144e740c",
@@ -2470,7 +2497,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "a8c8860e73f0",
@@ -2479,7 +2506,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "a56351e96a4f",
@@ -2506,7 +2533,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "a25d966adee6",
@@ -2515,7 +2542,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "a20cd59fc4fa",
@@ -2524,7 +2551,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "9d7409ef2491",
@@ -2533,7 +2560,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "99fb13e3c8e9",
@@ -2551,7 +2578,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "94c32c943cad",
@@ -2569,7 +2596,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "8e68214316e5",
@@ -2578,7 +2605,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "8e172b491651",
@@ -2587,7 +2614,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "8ad513c7cdd6",
@@ -2596,7 +2623,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "85fad87e1b32",
@@ -2614,7 +2641,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "7e9645ada613",
@@ -2623,7 +2650,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "7d5df6cb48d9",
@@ -2632,7 +2659,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "7c6feccc9280",
@@ -2650,7 +2677,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "76581af56e71",
@@ -2659,7 +2686,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "6fbafc184a99",
@@ -2668,7 +2695,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "6e5eceb57415",
@@ -2686,7 +2713,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "69f05a9c6cec",
@@ -2695,7 +2722,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "6928fb2e03f8",
@@ -2731,7 +2758,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "5f39ea4a0cc3",
@@ -2749,7 +2776,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "5ba644f452c2",
@@ -2758,7 +2785,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "5a1680a56a42",
@@ -2776,7 +2803,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "5047551409f7",
@@ -2794,7 +2821,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "4baa2da66969",
@@ -2812,7 +2839,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "446aade253ef",
@@ -2839,7 +2866,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "41a226a1fbc3",
@@ -2848,7 +2875,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "40fe83a8dabf",
@@ -2857,7 +2884,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "404e5ca1abb4",
@@ -2884,7 +2911,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "3bc3c6c97e8b",
@@ -2911,7 +2938,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "359cfd324c87",
@@ -2920,7 +2947,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "35425423a5ff",
@@ -2929,7 +2956,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "34ea31e96dff",
@@ -2938,7 +2965,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "34c2a7e4ee09",
@@ -2947,7 +2974,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "2ba6230725aa",
@@ -2956,7 +2983,7 @@
    "source": "مجتمع فنی تهران - نیاوران",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "28b7fb8f5032",
@@ -2965,7 +2992,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "26ee642425a2",
@@ -2974,7 +3001,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "268c299635bf",
@@ -3001,7 +3028,7 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "1faf06807673",
@@ -3028,7 +3055,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "1360746412c7",
@@ -3055,7 +3082,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "0b4825f79680",
@@ -3064,7 +3091,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "0ac907a5d117",
@@ -3073,7 +3100,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "08234a326161",
@@ -3082,7 +3109,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   },
   {
    "id": "02072f23aa7c",
@@ -3091,8 +3118,8 @@
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-05"
   }
  ],
- "updated": "2026-11-04T12:39+00:00"
+ "updated": "2026-11-05T12:45+00:00"
 }
