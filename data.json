@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 28
+   "count": 29
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,33 @@
   }
  ],
  "items": [
+  {
+   "id": "deaec0a6912c",
+   "title": "خبرهایی از هفته تصویرگری و نمایشگاه پینوکیو؛ «در جستجوی ایران» آغاز شد",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/208825-%D8%AE%D8%A8%D8%B1%D9%87%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D9%87%D9%81%D8%AA%D9%87-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DA%AF%D8%B1%DB%8C-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%BE%DB%8C%D9%86%D9%88%DA%A9%DB%8C%D9%88-%D8%AF%D8%B1-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "exhibition",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "id": "8696ad36109d",
+   "title": "۹۸ فیلم متقاضی حضور در بخش دانشجویی جشنواره «سینماحقیقت» شدند",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208823-%D9%81%DB%8C%D9%84%D9%85-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%AE%D8%B4-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D8%AD%D9%82%DB%8C%D9%82%D8%AA-%D8%B4%D8%AF%D9%86%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
+  {
+   "id": "34206da0c80e",
+   "title": "بازگشایی چند سالن به یاد سینماهای تعطیل‌شده",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208824-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%DA%86%D9%86%D8%AF-%D8%B3%D8%A7%D9%84%D9%86-%D8%A8%D9%87-%DB%8C%D8%A7%D8%AF-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D9%87%D8%A7%DB%8C-%D8%AA%D8%B9%D8%B7%DB%8C%D9%84-%D8%B4%D8%AF%D9%87",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06"
+  },
   {
    "id": "f15b2f2b6b4a",
    "title": "از «صبح اعدام» تا «قاتلان ماه کامل» در فیلم‌های آخر هفته تلویزیون",
@@ -3040,5 +3067,5 @@
    "last_seen": "2026-11-05"
   }
  ],
- "updated": "2026-11-06T00:29+00:00"
+ "updated": "2026-11-06T12:42+00:00"
 }
