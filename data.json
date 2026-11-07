@@ -52,8 +52,9 @@
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
    "url": "https://mftzf.com/departments/هنر-و-سینما/عکاسی-و-تصویر-برداری",
-   "status": "ok",
-   "count": 11
+   "status": "error",
+   "error": "HTTPSConnectionPool(host='mftzf.com', port=443): Max retries exceeded with url: /departments/%D9%87%D9%86%D8%B1-%D9%88-%",
+   "count": 0
   },
   {
    "name": "هنرآنلاین",
@@ -2878,5 +2879,5 @@
    "last_seen": "2026-11-05"
   }
  ],
- "updated": "2026-11-07T00:26+00:00"
+ "updated": "2026-11-07T06:34+00:00"
 }
