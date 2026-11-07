@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 2
+   "count": 1
   },
   {
    "name": "کارنامه",
@@ -23,7 +23,7 @@
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
    "status": "ok",
-   "count": 4
+   "count": 5
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -52,15 +52,14 @@
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
    "url": "https://mftzf.com/departments/هنر-و-سینما/عکاسی-و-تصویر-برداری",
-   "status": "error",
-   "error": "HTTPSConnectionPool(host='mftzf.com', port=443): Max retries exceeded with url: /departments/%D9%87%D9%86%D8%B1-%D9%88-%",
-   "count": 0
+   "status": "ok",
+   "count": 11
   },
   {
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 29
+   "count": 28
   },
   {
    "name": "ایسنا",
@@ -70,6 +69,60 @@
   }
  ],
  "items": [
+  {
+   "id": "aad6088830a9",
+   "title": "جستجوی ایران در سینما با نمایش «باد صبا»",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208831-%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%A8%D8%A7-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D8%A8%D8%A7%D8%AF-%D8%B5%D8%A8%D8%A7",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07"
+  },
+  {
+   "id": "a2d0d51d1647",
+   "title": "ایران برنامه‌های ثبت میراث مستند خود را تشریح کرد",
+   "url": "https://honaronline.ir/بخش-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-8/208837-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D8%AB%D8%A8%D8%AA-%D9%85%DB%8C%D8%B1%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%AA%D8%B4%D8%B1%DB%8C%D8%AD-%DA%A9%D8%B1%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07"
+  },
+  {
+   "id": "6164fd1e1d59",
+   "title": "نمایش و تحلیل مستند «تئاتر، خانه کوچک من» در سینماتِک خانه‌ هنرمندان",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208832-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D8%AE%D8%A7%D9%86%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D9%85%D9%86-%D8%AF%D8%B1-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D8%AA-%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07"
+  },
+  {
+   "id": "5df9b06ce117",
+   "title": "مدیران سه بخش جشنواره تئاتر فجر معرفی شدند",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208834-%D9%85%D8%AF%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D9%87-%D8%A8%D8%AE%D8%B4-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%81%D8%AC%D8%B1-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07"
+  },
+  {
+   "id": "3c0060a8de88",
+   "title": "نمایش مستند«باد صبا»",
+   "url": "https://tmoca.com/events/cinematheque/%d8%a8%d8%a7%d8%af-%d8%b5%d8%a8%d8%a7/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07"
+  },
+  {
+   "id": "0ecbe2434bfd",
+   "title": "تمرکز جشنواره فرانسوی بر سینمای ایران",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208828-%D8%AA%D9%85%D8%B1%DA%A9%D8%B2-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%A8%D8%B1-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07"
+  },
   {
    "id": "deaec0a6912c",
    "title": "خبرهایی از هفته تصویرگری و نمایشگاه پینوکیو؛ «در جستجوی ایران» آغاز شد",
@@ -2879,5 +2932,5 @@
    "last_seen": "2026-11-05"
   }
  ],
- "updated": "2026-11-07T06:34+00:00"
+ "updated": "2026-11-07T12:27+00:00"
 }
