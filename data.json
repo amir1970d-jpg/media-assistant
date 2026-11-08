@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 4
+   "count": 2
   },
   {
    "name": "کارنامه",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 35
+   "count": 37
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -69,6 +69,24 @@
   }
  ],
  "items": [
+  {
+   "id": "65028f3514a3",
+   "title": "یادداشت عباس عبداله زاده برای نمایش \"سه دقیقه تا پایان جهان\" به کارگردانی تینو صالحی",
+   "url": "https://www.tiwall.com/news/sehdaghigheh.review",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
+  {
+   "id": "42d7c733a17c",
+   "title": "یادداشت احسان سبکتکین برای نمایش \"سه دقیقه تا پایان جهان\" به کارگردانی تینو صالحی",
+   "url": "https://www.tiwall.com/news/sehdaghigheh.review2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08"
+  },
   {
    "id": "c0763e1f6ba8",
    "title": "داریوش فرهنگ گوینده یک مستند شد",
@@ -580,7 +598,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "cde82f216c09",
@@ -715,7 +733,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "03537fb2d480",
@@ -733,7 +751,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "fe45df4fd2fa",
@@ -787,7 +805,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "8579007a2b37",
@@ -859,7 +877,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "aea0ec4b9791",
@@ -1354,7 +1372,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "883fb66770b4",
@@ -1381,7 +1399,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "43602ce572cd",
@@ -1417,7 +1435,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "f91794cbf0ef",
@@ -1750,214 +1768,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "id": "ffb4ab851adf",
-   "title": "فیلم‌تئاتر ن مثل نظم ۴ ★ ۰٫۰ ک: گروهی / ن: کار گروهی ۸,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/noonnazm",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "fad808f9f153",
-   "title": "فیلم‌تئاتر گرگ نامه ن و ک: سید یاسر هاشم زاده ۸,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/gorgname",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "f9edd7b3ac45",
-   "title": "فیلم‌تئاتر برنامه ریزی برای یک مرگ ابزورد ن و ک: مهدی آذری ۱۵۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/baraye.marg",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "f949d8ddaf13",
-   "title": "فیلم‌تئاتر ای نون دلقک خنده میتواند یک سلاح باشد. ن و ک: سعید فاضلی ۱۵۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/dalghak9",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "ed9ed2fd603b",
-   "title": "فیلم‌تئاتر آنکه گفت آری، آنکه گفت نه ۶ ★ ۳٫۰ محصول گروه تئاتر چکاوک ک: هومن رهنمون / ن: برتولت برشت ۱۲۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/ankegoft2",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "eb92a7d243fb",
-   "title": "فیلم‌تئاتر هنر جدل بر سر تابلوی سفید؟ آیا تمام مسئله این است؟ ک: محمد منصور / ن: یاسمینا رضا ۱۲۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/honar14",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "dca2d4d20cb0",
-   "title": "فیلم‌تئاتر دختر کدو تنبل به مناسبت هفته ملی کودک تماشای این فیلم‌تیاتر تا جمعه ۲۰ مهر رایگان است. ک: علی پاکدست، مریم اقبالی / ن: شادی پورمهری ۸,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/dokhtarekadoutanbal",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "d921a1dc3dd2",
-   "title": "نمایش فیلم «عروسک» زنده‌یاد اصغر یوسفی‌نژاد در موزه هنرهای معاصر",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208564-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D9%81%DB%8C%D9%84%D9%85-%D8%B9%D8%B1%D9%88%D8%B3%DA%A9-%D8%B2%D9%86%D8%AF%D9%87-%DB%8C%D8%A7%D8%AF-%D8%A7%D8%B5%D8%BA%D8%B1-%DB%8C%D9%88%D8%B3%D9%81%DB%8C-%D9%86%DA%98%D8%A7%D8%AF-%D8%AF%D8%B1-%D9%85%D9%88%D8%B2%D9%87-%D9%87%D9%86%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D8%B5%D8%B1",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "d210b5793e91",
-   "title": "«شب‌های پرتره» با عکاسی از علیرضا مشایخی کلید می‌خورد",
-   "url": "https://honaronline.ir/بخش-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/208566-%D8%B4%D8%A8-%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D8%AA%D8%B1%D9%87-%D8%A8%D8%A7-%D8%B9%DA%A9%D8%A7%D8%B3%DB%8C-%D8%A7%D8%B2-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D9%85%D8%B4%D8%A7%DB%8C%D8%AE%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF-%D9%85%DB%8C-%D8%AE%D9%88%D8%B1%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "cd372b90387a",
-   "title": "فیلم‌تئاتر آدم برفی ۲ ★ ۰٫۰ ن و ک: مهدی مهدی آبادی ۸,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/snowman",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "bad37f2a5eff",
-   "title": "فیلم‌تئاتر آکواریوم ۳ ★ ۰٫۰ ک: تقی علی آبادی / ن: خداداد رضایی ۱۲۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/aquarium3",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "b5ce66e2a792",
-   "title": "فیلم‌تئاتر زنان بالکان ۱ ★ ۰٫۰ ک: حسین شهبازی / ن: جولز تاسکا ۱۲۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/zanan.balkan2",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "b432bb3d86b5",
-   "title": "فیلم‌تئاتر ارور ۴۰۴ ۱ ★ ۰٫۰ نمایشی از عباس جمالی ن و ک: عباس جمالی ۱۵۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/error4042",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "9a4a22d473e2",
-   "title": "فیلم‌تئاتر غیر اصولی ۶ ★ ۵٫۰ ن و ک: مجید اصغری ۱۵۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/unprincipled2",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "9782c5a90ea3",
-   "title": "فیلم‌تئاتر اپرای عروسکی رستم و سهراب ۲ ★ ۰٫۰ ن و ک: بهروز غریب پور ۱۵۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/opera.rostamsohrab3",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "8ad3d46cfeb5",
-   "title": "فیلم‌تئاتر مرثیه ای برای یک دلقک ۲ ★ ۰٫۰ ارائه ای از کمپانی تئاتر سایه ن و ک: رامین کهن ۱۲۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/dalghak2",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "897738b23d83",
-   "title": "انتشار پوستر فیلم سینمایی «آن‌سوی آوار»",
-   "url": "https://honaronline.ir/بخش-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C-7/208565-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%BE%D9%88%D8%B3%D8%AA%D8%B1-%D9%81%DB%8C%D9%84%D9%85-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A2%D9%86-%D8%B3%D9%88%DB%8C-%D8%A2%D9%88%D8%A7%D8%B1",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "86bfcf2e2c06",
-   "title": "فیلم‌تئاتر حسنی یه پهلوونه ۱ ★ ۰٫۰ ک: عادل بزدوده / ن: کیوان اقبالی گوران ۸,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/hasanipahlevon",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "82f58d08273f",
-   "title": "گزارش تصویری تیوال از نشست رسانه‌ای بیست‌ویکمین جشنواره بین‌المللی نمایش عروسکی تهران‌مبارک / عکاس: کیارش مسیبی",
-   "url": "https://www.tiwall.com/news/tehran.mobarak21",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "7ede028732d3",
-   "title": "فیلم‌تئاتر به خاطر سارا ۵ ★ ۴٫۲ ک: حمید گلی / ن: داوود کیانیان ۸,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/bekhateresara",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "6e63e608f813",
-   "title": "فیلم‌تئاتر اندر حکایت یوسف و زلیخا ک: کوروش رخشنده پی / ن: داوود فتحعلی بیگی ۱۵۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/yousef.zoleikha3",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "6bf7f8c3fa2d",
-   "title": "سینماها در هفته گذشته ۵۹۸ هزار مخاطب داشتند",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208557-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D9%87%D8%A7-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%D8%AE%D8%A7%D8%B7%D8%A8-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "60a3b2b13207",
-   "title": "فیلم‌تئاتر رگ ۵ ★ ۴٫۴ ک: ایوب آقاخانی / ن: ایوب آقاخانی، فرهاد امینی، ... ۱۲۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/rag2",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "5abf38407b85",
@@ -1976,51 +1787,6 @@
    "kind": "exhibition",
    "first_seen": "2026-10-10",
    "last_seen": "2026-10-24"
-  },
-  {
-   "id": "39ae45ba9fac",
-   "title": "فیلم‌تئاتر شازده کوچولو ۲ ★ ۰٫۰ ک: آناهیتا غنی زاده / ن: بهرام جلالی پور ۱۲۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/littleprince10",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "38e327c35881",
-   "title": "فیلم‌تئاتر وصال خوانی درباره‌ی چند بیشعور ۲ ★ ۰٫۰ بیشعور ک: پورنیک کاوش / ن: بهمن ولیان، پورنیک کاوش ۴۰,۰۰۰ تومان",
-   "url": "https://www.tiwall.com/p/bishour2",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "23360681245e",
-   "title": "فیلم‌تئاتر افسانه پرکو ۳ ★ ۰٫۰ سفری دور به افسانه های ایران زمین ن و ک: ندا عزیزیه ۱۲۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/parko",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "1f966fb0e8fd",
-   "title": "فیلم‌تئاتر شکار مرگ ۶ ★ ۴٫۲ ک: نگار عزیزی / ن: آیرالوین ۱۵۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/shekarmarg2",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
-  },
-  {
-   "id": "0348e924bc28",
-   "title": "فیلم‌تئاتر ساختمان زیبا ک: کمال مقدم / ن: مجید حاتمی ۱۲۰,۰۰۰ تومان خرید",
-   "url": "https://www.tiwall.com/p/sakhtemanziba2",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
   },
   {
    "id": "76aad1103cb6",
@@ -2740,7 +2506,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "3a51cde16a5e",
@@ -2857,7 +2623,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "1b717cfcb296",
@@ -2893,7 +2659,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-08"
   },
   {
    "id": "0d1d9d3412f8",
@@ -2941,5 +2707,5 @@
    "last_seen": "2026-11-05"
   }
  ],
- "updated": "2026-11-07T18:22+00:00"
+ "updated": "2026-11-08T02:55+00:00"
 }
