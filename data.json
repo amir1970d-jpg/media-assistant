@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 6
+   "count": 7
   },
   {
    "name": "کارنامه",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 28
+   "count": 27
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,24 @@
   }
  ],
  "items": [
+  {
+   "id": "ad38a84b66bd",
+   "title": "نمایش به من گفتن زن باش ن و ک: رومینا سخائی، سلماز محمودی تماشاخانه هیلاج - کارگاه نمایش ۱۷ آبان تا ۰۵ آذر ۲۰:۳۰ ۳۵۰,۰۰۰ تومان خرید بلیت",
+   "url": "https://www.tiwall.com/p/zanbash",
+   "source": "تیوال",
+   "kind": "workshop",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  {
+   "id": "a34a09993944",
+   "title": "نمایش ناتمام ک: نسترن رستمی / ن: محمد چرمشیر کارگاه نمایش تالار انتظار - کرمانشاه ۱۶ تا ۲۳ آبان ۱۶:۰۰ ۲۰۰,۰۰۰ تومان خرید بلیت کرمانشاه",
+   "url": "https://www.tiwall.com/p/natamam9",
+   "source": "تیوال",
+   "kind": "workshop",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
   {
    "id": "db6a34d3a4df",
    "title": "از گالری فیزیکی تا ویترین آنلاین؛ هنرمندان چگونه آثار خود را بهتر معرفی کنند؟",
@@ -1057,7 +1075,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "c3b207ad5bfd",
@@ -1201,7 +1219,7 @@
    "source": "تیوال",
    "kind": "workshop",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "87a4a26aadd7",
@@ -1654,24 +1672,6 @@
    "last_seen": "2026-11-02"
   },
   {
-   "id": "eb9a78f9e551",
-   "title": "نمایش «یک روز آفتابی» به نویسندگی اسلاومیر مروژک و کارگردانی درسا آقائی، با حضور جمع گسترده‌ای از هنرمندان، در تماشاخانه هما روی صحنه رفت.",
-   "url": "https://www.tiwall.com/news/sunnyday.homa",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-11",
-   "last_seen": "2026-10-11"
-  },
-  {
-   "id": "eaa6954b88e9",
-   "title": "اکران ویژه چهار فیلم کوتاه از یک فیلمساز",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208585-%D8%A7%DA%A9%D8%B1%D8%A7%D9%86-%D9%88%DB%8C%DA%98%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%D8%A7%D8%B2-%DB%8C%DA%A9-%D9%81%DB%8C%D9%84%D9%85%D8%B3%D8%A7%D8%B2",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-11",
-   "last_seen": "2026-10-11"
-  },
-  {
    "id": "e6a11076466e",
    "title": "عکاسی از اجسام رفلکتیو و براق: نکات و رازهای جذاب",
    "url": "https://academy.didnegar.com/photgraphy-of-reflective-objects/",
@@ -1715,15 +1715,6 @@
    "kind": "workshop",
    "first_seen": "2026-10-11",
    "last_seen": "2026-11-05"
-  },
-  {
-   "id": "a06747a11e24",
-   "title": "افتتاح نمایشگاه «اگر می‌شد صدا را دید»؛ تصویرگری برای شعر پرچالش است",
-   "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/208586-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%DA%AF%D8%B1-%D9%85%DB%8C-%D8%B4%D8%AF-%D8%B5%D8%AF%D8%A7-%D8%B1%D8%A7-%D8%AF%DB%8C%D8%AF-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DA%AF%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B9%D8%B1-%D9%BE%D8%B1%DA%86%D8%A7%D9%84%D8%B4-%D8%A7%D8%B3%D8%AA",
-   "source": "هنرآنلاین",
-   "kind": "exhibition",
-   "first_seen": "2026-10-11",
-   "last_seen": "2026-10-11"
   },
   {
    "id": "99510847ea60",
@@ -1787,15 +1778,6 @@
    "kind": "workshop",
    "first_seen": "2026-10-11",
    "last_seen": "2026-11-01"
-  },
-  {
-   "id": "413586f97a57",
-   "title": "«درشتی‌های شهر» نمایشگاه شد؛ پرتره‌های کودکان در میدان امام حسین (ع)",
-   "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/208576-%D8%AF%D8%B1%D8%B4%D8%AA%DB%8C-%D9%87%D8%A7%DB%8C-%D8%B4%D9%87%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D8%B4%D8%AF-%D9%BE%D8%B1%D8%AA%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%A7%D9%85%D8%A7%D9%85-%D8%AD%D8%B3%DB%8C%D9%86",
-   "source": "هنرآنلاین",
-   "kind": "exhibition",
-   "first_seen": "2026-10-11",
-   "last_seen": "2026-10-11"
   },
   {
    "id": "3f6dfa6db91c",
@@ -2761,5 +2743,5 @@
    "last_seen": "2026-11-05"
   }
  ],
- "updated": "2026-11-08T21:25+00:00"
+ "updated": "2026-11-09T03:16+00:00"
 }
