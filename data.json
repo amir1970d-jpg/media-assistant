@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 7
+   "count": 6
   },
   {
    "name": "کارنامه",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 27
+   "count": 25
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,15 @@
   }
  ],
  "items": [
+  {
+   "id": "f4d1e265e93d",
+   "title": "نمایش مستند «رودخانه‌ای زیر رودخانه»",
+   "url": "https://tmoca.com/events/cinematheque/%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d9%85%d8%b3%d8%aa%d9%86%d8%af-%d8%b1%d9%88%d8%af%d8%ae%d8%a7%d9%86%d9%87%d8%a7%db%8c-%d8%b2%db%8c%d8%b1-%d8%b1%d9%88%d8%af%d8%ae%d8%a7%d9%86%d9%87/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
   {
    "id": "ad38a84b66bd",
    "title": "نمایش به من گفتن زن باش ن و ک: رومینا سخائی، سلماز محمودی تماشاخانه هیلاج - کارگاه نمایش ۱۷ آبان تا ۰۵ آذر ۲۰:۳۰ ۳۵۰,۰۰۰ تومان خرید بلیت",
@@ -84,6 +93,15 @@
    "url": "https://www.tiwall.com/p/natamam9",
    "source": "تیوال",
    "kind": "workshop",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09"
+  },
+  {
+   "id": "4944a9a74ec2",
+   "title": "«رئیسعلی» به کارگردانی رضا میرکریمی در بوشهر جلوی دوربین رفت",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208860-%D8%B1%D8%A6%DB%8C%D8%B3%D8%B9%D9%84%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%DB%8C-%D8%B1%D8%B6%D8%A7-%D9%85%DB%8C%D8%B1%DA%A9%D8%B1%DB%8C%D9%85%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%AC%D9%84%D9%88%DB%8C-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D8%B1%D9%81%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
    "first_seen": "2026-11-09",
    "last_seen": "2026-11-09"
   },
@@ -517,7 +535,7 @@
    "source": "تیوال",
    "kind": "workshop",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "e635f7d25b29",
@@ -868,7 +886,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "89ec57a9a1fd",
@@ -1318,7 +1336,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "5c920956ea6d",
@@ -1327,7 +1345,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "5149ea0f8b9c",
@@ -1777,7 +1795,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-09"
   },
   {
    "id": "3f6dfa6db91c",
@@ -2743,5 +2761,5 @@
    "last_seen": "2026-11-05"
   }
  ],
- "updated": "2026-11-09T03:16+00:00"
+ "updated": "2026-11-09T14:30+00:00"
 }
