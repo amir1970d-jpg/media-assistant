@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 6
+   "count": 4
   },
   {
    "name": "کارنامه",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 35
+   "count": 41
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 25
+   "count": 27
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,33 @@
   }
  ],
  "items": [
+  {
+   "id": "d1bcdd195f34",
+   "title": "اکران مستندهای منتخب «سینماحقیقت» در ۳۰ استان",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208871-%D8%A7%DA%A9%D8%B1%D8%A7%D9%86-%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D8%AD%D9%82%DB%8C%D9%82%D8%AA-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "25b2c1694905",
+   "title": "کدام فیلمنامه ها پروانه ساخت گرفتند؟",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208868-%DA%A9%D8%AF%D8%A7%D9%85-%D9%81%DB%8C%D9%84%D9%85%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7-%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87-%D8%B3%D8%A7%D8%AE%D8%AA-%DA%AF%D8%B1%D9%81%D8%AA%D9%86%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  {
+   "id": "15a3354f43ec",
+   "title": "«سینما، لوکیشن، شخصیت» در مرحله تدوین",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208869-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%B4%D8%AE%D8%B5%DB%8C%D8%AA-%D8%AF%D8%B1-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%AA%D8%AF%D9%88%DB%8C%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
   {
    "id": "f4d1e265e93d",
    "title": "نمایش مستند «رودخانه‌ای زیر رودخانه»",
@@ -364,7 +391,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "1b9c7570d022",
@@ -724,7 +751,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "db34810829fd",
@@ -1147,7 +1174,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "30e06e9d05a8",
@@ -1507,7 +1534,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "314176bbe747",
@@ -1516,7 +1543,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "2a5839e9ae00",
@@ -1636,33 +1663,6 @@
    "last_seen": "2026-10-13"
   },
   {
-   "id": "f920f2cc28a4",
-   "title": "صدور مجوز ساخت و اکران برای ۵ فیلم جدید",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208590-%D8%B5%D8%AF%D9%88%D8%B1-%D9%85%D8%AC%D9%88%D8%B2-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A7%DA%A9%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%D9%85-%D8%AC%D8%AF%DB%8C%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "id": "9aab3ffa537f",
-   "title": "فیلم مجیدی توجه‌ها را به خود جلب کرد؛ سفری در سراشیبی لغزنده اخلاقی!",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208595-%D9%81%DB%8C%D9%84%D9%85-%D9%85%D8%AC%DB%8C%D8%AF%DB%8C-%D8%AA%D9%88%D8%AC%D9%87-%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AE%D9%88%D8%AF-%D8%AC%D9%84%D8%A8-%DA%A9%D8%B1%D8%AF-%D8%B3%D9%81%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%B1%D8%A7%D8%B4%DB%8C%D8%A8%DB%8C-%D9%84%D8%BA%D8%B2%D9%86%D8%AF%D9%87-%D8%A7%D8%AE%D9%84%D8%A7%D9%82%DB%8C",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
-   "id": "1da271c60e3c",
-   "title": "یکی از بزرگ‌ترین شکست‌های سینمایی رقم خورد",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208591-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%B1%D9%82%D9%85-%D8%AE%D9%88%D8%B1%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
    "id": "1701ac3bc2c1",
    "title": "معرفی فینالیست‌های جوایز عکاسی کمدی نیکون 2026",
    "url": "https://yphc.ir/news/104187/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%81%db%8c%d9%86%d8%a7%d9%84%db%8c%d8%b3%d8%aa%d9%87%d8%a7%db%8c-%d8%ac%d9%88%d8%a7%db%8c%d8%b2-%d8%b9%da%a9%d8%a7%d8%b3%db%8c-%da%a9%d9%85%d8%af%db%8c-%d9%86/",
@@ -1672,22 +1672,13 @@
    "last_seen": "2026-10-19"
   },
   {
-   "id": "10d31191ef9a",
-   "title": "دبیر چهل و دومین جشنواره بین المللی موسیقی فجر معرفی شد",
-   "url": "https://honaronline.ir/بخش-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/208592-%D8%AF%D8%A8%DB%8C%D8%B1-%DA%86%D9%87%D9%84-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D9%81%D8%AC%D8%B1-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%B4%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12"
-  },
-  {
    "id": "ff8a32a38871",
    "title": "آموزش صفر تا صد ادیت عکس",
    "url": "https://academy.didnegar.com/training-from-zero-to-one-hundred-photo-editing/",
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "e6a11076466e",
@@ -1696,7 +1687,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "cb3bf358e550",
@@ -1777,7 +1768,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "5eb6b12d0d9f",
@@ -1804,7 +1795,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "122a374f174f",
@@ -1813,7 +1804,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "06d7c7c3d18b",
@@ -1921,7 +1912,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "f47f5acdbdbd",
@@ -2101,7 +2092,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "bbcd5c033af2",
@@ -2119,7 +2110,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "b5f0fb571e1e",
@@ -2200,7 +2191,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "a4738552cdda",
@@ -2389,7 +2380,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "67d6f8c8175e",
@@ -2461,7 +2452,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "4d4cd247523d",
@@ -2533,7 +2524,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "3ecdea040a7e",
@@ -2686,7 +2677,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "1b1ddf3a0e3a",
@@ -2704,7 +2695,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-10"
   },
   {
    "id": "104632505d1c",
@@ -2761,5 +2752,5 @@
    "last_seen": "2026-11-05"
   }
  ],
- "updated": "2026-11-09T14:30+00:00"
+ "updated": "2026-11-10T00:55+00:00"
 }
