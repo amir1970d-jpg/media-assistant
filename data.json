@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 8
+   "count": 5
   },
   {
    "name": "کارنامه",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 41
+   "count": 34
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -53,13 +53,13 @@
    "name": "مجتمع فنی تهران - زعفرانیه",
    "url": "https://mftzf.com/departments/هنر-و-سینما/عکاسی-و-تصویر-برداری",
    "status": "ok",
-   "count": 11
+   "count": 12
   },
   {
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 26
+   "count": 25
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,33 @@
   }
  ],
  "items": [
+  {
+   "id": "ecd6544bbad7",
+   "title": "فیلم‌ها هفته گذشته چقدر فروش داشتند؟",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208885-%D9%81%DB%8C%D9%84%D9%85-%D9%87%D8%A7-%D9%87%D9%81%D8%AA%D9%87-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%DA%86%D9%82%D8%AF%D8%B1-%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "id": "a036951ab71e",
+   "title": "داوران جشنواره فیلم «آب به قیمت جان» معرفی شدند",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208888-%D8%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D8%A8-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%A7%D9%86-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
+  },
+  {
+   "id": "0363718406b9",
+   "title": "استراتژی کسب و کار چیست؟ مراحل تدوین استراتژی موفق",
+   "url": "https://mftzf.com/Blog/%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%da%98%db%8c-%da%a9%d8%b3%d8%a8-%d9%88-%da%a9%d8%a7%d8%b1-%da%86%db%8c%d8%b3%d8%aa",
+   "source": "مجتمع فنی تهران - زعفرانیه",
+   "kind": "workshop",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11"
+  },
   {
    "id": "f5cde8f5825a",
    "title": "نخستین نمایشگاه لوازم و صنایع هنرهای تجسمی افتتاح شد",
@@ -1678,7 +1705,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-27"
+   "last_seen": "2026-11-11"
   },
   {
    "id": "a8d4e7cfb735",
@@ -1714,7 +1741,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-11"
   },
   {
    "id": "760d496f0f74",
@@ -1723,7 +1750,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-11"
   },
   {
    "id": "7557d58cc84a",
@@ -1993,7 +2020,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-11"
   },
   {
    "id": "d359a045fc6b",
@@ -2614,7 +2641,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-11"
   },
   {
    "id": "224edcc0ec30",
@@ -2716,5 +2743,5 @@
    "last_seen": "2026-11-05"
   }
  ],
- "updated": "2026-11-11T03:24+00:00"
+ "updated": "2026-11-11T13:03+00:00"
 }
