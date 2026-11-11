@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 7
+   "count": 8
   },
   {
    "name": "کارنامه",
@@ -373,7 +373,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04"
+   "last_seen": "2026-11-11"
   },
   {
    "id": "687c2ff2306d",
@@ -1147,7 +1147,7 @@
    "source": "تیوال",
    "kind": "workshop",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-11"
   },
   {
    "id": "d96a8182b3fa",
@@ -1625,78 +1625,6 @@
    "kind": "workshop",
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-20"
-  },
-  {
-   "id": "ab191cec82c5",
-   "title": "«اودیسه» پرفروش‌ترین فیلم خارجی در کره شد",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208603-%D8%A7%D9%88%D8%AF%DB%8C%D8%B3%D9%87-%D9%BE%D8%B1%D9%81%D8%B1%D9%88%D8%B4-%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%DB%8C%D9%84%D9%85-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%87-%D8%B4%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "id": "a8832a53540c",
-   "title": "نمایش نسخه مرمت‌شده فیلم سینمایی «باشو، غریبه کوچک» در کانادا",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208610-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D9%86%D8%B3%D8%AE%D9%87-%D9%85%D8%B1%D9%85%D8%AA-%D8%B4%D8%AF%D9%87-%D9%81%DB%8C%D9%84%D9%85-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B4%D9%88-%D8%BA%D8%B1%DB%8C%D8%A8%D9%87-%DA%A9%D9%88%DA%86%DA%A9-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "id": "71e91abb027c",
-   "title": "«وزارت آب» به نویسندگی مهام میقانی و کارگردانی مصطفوی روی صحنه می‌رود.",
-   "url": "https://www.tiwall.com/news/vezarat.ab.iranshahr",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "id": "6dfe34025772",
-   "title": "فراخوان هجدهمین جشنواره موسیقی نواحی منتشر شد",
-   "url": "https://honaronline.ir/بخش-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/208605-%D9%81%D8%B1%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%87%D8%AC%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D9%86%D9%88%D8%A7%D8%AD%DB%8C-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "id": "617fca6cd17f",
-   "title": "مازیار لرستانی پس از ۶ سال فیلم کمدی  می سازد",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208598-%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B3%D8%A7%D9%84-%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D9%85%D8%AF%DB%8C-%D9%85%DB%8C-%D8%B3%D8%A7%D8%B2%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "id": "5662ece9ac87",
-   "title": "معرفی داوران بخش «افق مقاومت» بیستمین جشنواره تئاتر مقاومت",
-   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208600-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%AE%D8%B4-%D8%A7%D9%81%D9%82-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%A8%DB%8C%D8%B3%D8%AA%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "id": "3b42c856f950",
-   "title": "«بامبولک ۲» به سینماها می‌آید",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208612-%D8%A8%D8%A7%D9%85%D8%A8%D9%88%D9%84%DA%A9-%D8%A8%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D9%87%D8%A7-%D9%85%DB%8C-%D8%A2%DB%8C%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
-  },
-  {
-   "id": "2d6db86387a3",
-   "title": "نمایش «تن و دیگر تکه‌پاره‌های عشق» به کارگردانی رضا بهکام و تهیه کنندگی محمد ذوالفقاری به زودی در مجموعه تئاترشهر روی صحنه می‌رود.",
-   "url": "https://www.tiwall.com/news/eshgh5.comingsoon",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
   },
   {
    "id": "1701ac3bc2c1",
@@ -2788,5 +2716,5 @@
    "last_seen": "2026-11-05"
   }
  ],
- "updated": "2026-11-10T13:51+00:00"
+ "updated": "2026-11-11T03:24+00:00"
 }
