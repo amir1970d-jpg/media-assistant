@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 7
+   "count": 6
   },
   {
    "name": "کارنامه",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 25
+   "count": 28
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,51 @@
   }
  ],
  "items": [
+  {
+   "id": "c48f11e12aa3",
+   "title": "حمیدرضا بیدقی مدیر هنری جشنواره «سینماحقیقت» شد",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208904-%D8%AD%D9%85%DB%8C%D8%AF%D8%B1%D8%B6%D8%A7-%D8%A8%DB%8C%D8%AF%D9%82%DB%8C-%D9%85%D8%AF%DB%8C%D8%B1-%D9%87%D9%86%D8%B1%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D8%AD%D9%82%DB%8C%D9%82%D8%AA-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  {
+   "id": "b10f33379b37",
+   "title": "معرفی نامزدهای بخش مسابقه «تئاتر صحنه‌ای»جشنواره تئاتر مقاومت",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208902-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%86%D8%A7%D9%85%D8%B2%D8%AF%D9%87%D8%A7%DB%8C-%D8%A8%D8%AE%D8%B4-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D8%B5%D8%AD%D9%86%D9%87-%D8%A7%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  {
+   "id": "990f44765b41",
+   "title": "انتشار فراخوان چهل‌ و پنجمین جشنواره ملی فیلم فجر",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208899-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%81%D8%B1%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%DA%86%D9%87%D9%84-%D9%BE%D9%86%D8%AC%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%85%D9%84%DB%8C-%D9%81%DB%8C%D9%84%D9%85-%D9%81%D8%AC%D8%B1",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  {
+   "id": "90da887f2e5b",
+   "title": "همراه با فیلم‌های آخر هفته تلویزیون؛ از «اشک هور» تا «آوای وحش»",
+   "url": "https://honaronline.ir/بخش-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-28/208898-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D9%81%DB%8C%D9%84%D9%85-%D9%87%D8%A7%DB%8C-%D8%A2%D8%AE%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D8%B2-%D8%A7%D8%B4%DA%A9-%D9%87%D9%88%D8%B1-%D8%AA%D8%A7-%D8%A2%D9%88%D8%A7%DB%8C-%D9%88%D8%AD%D8%B4",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
+  {
+   "id": "0871e9b8c366",
+   "title": "پارک چان‌ووک خشن‌ترین فیلمش را می‌سازد",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208903-%D9%BE%D8%A7%D8%B1%DA%A9-%DA%86%D8%A7%D9%86-%D9%88%D9%88%DA%A9-%D8%AE%D8%B4%D9%86-%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%DB%8C%D9%84%D9%85%D8%B4-%D8%B1%D8%A7-%D9%85%DB%8C-%D8%B3%D8%A7%D8%B2%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12"
+  },
   {
    "id": "ecd6544bbad7",
    "title": "فیلم‌ها هفته گذشته چقدر فروش داشتند؟",
@@ -2716,5 +2761,5 @@
    "last_seen": "2026-11-12"
   }
  ],
- "updated": "2026-11-12T04:34+00:00"
+ "updated": "2026-11-12T14:06+00:00"
 }
