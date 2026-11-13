@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 6
+   "count": 5
   },
   {
    "name": "کارنامه",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 34
+   "count": 37
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -1264,7 +1264,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-02"
+   "last_seen": "2026-11-13"
   },
   {
    "id": "850154853176",
@@ -1462,7 +1462,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-01"
+   "last_seen": "2026-11-13"
   },
   {
    "id": "801e2c8cd190",
@@ -1489,7 +1489,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-13"
   },
   {
    "id": "257416c32bad",
@@ -1528,15 +1528,6 @@
    "last_seen": "2026-11-05"
   },
   {
-   "id": "c72874ae0b8b",
-   "title": "همراه با فیلم‌های آخر هفته تلویزیون؛ از «شیدا» تا «جزیره شاتر»",
-   "url": "https://honaronline.ir/بخش-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-28/208624-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D9%81%DB%8C%D9%84%D9%85-%D9%87%D8%A7%DB%8C-%D8%A2%D8%AE%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D8%B2-%D8%B4%DB%8C%D8%AF%D8%A7-%D8%AA%D8%A7-%D8%AC%D8%B2%DB%8C%D8%B1%D9%87-%D8%B4%D8%A7%D8%AA%D8%B1",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
-  },
-  {
    "id": "c65d7ecd5c2f",
    "title": "نکات جامع ادیت عکس با موبایل",
    "url": "https://academy.didnegar.com/edit-photo-with-mobile/",
@@ -1570,7 +1561,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-13"
   },
   {
    "id": "a05bd681c1c3",
@@ -1615,7 +1606,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-13"
   },
   {
    "id": "455f540e169d",
@@ -1741,7 +1732,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-28"
+   "last_seen": "2026-11-13"
   },
   {
    "id": "8aa0b8940500",
@@ -2084,15 +2075,6 @@
    "kind": "news",
    "first_seen": "2026-10-08",
    "last_seen": "2026-11-12"
-  },
-  {
-   "id": "c3ae1a74b074",
-   "title": "دو فیلم‌تئاتر عروسکی «حلزون و وال» و «ماکاندو»",
-   "url": "https://tmoca.com/events/cinematheque/%d8%af%d9%88-%d9%81%db%8c%d9%84%d9%85%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d8%b9%d8%b1%d9%88%d8%b3%da%a9%db%8c-%d8%ad%d9%84%d8%b2%d9%88%d9%86-%d9%88-%d9%88%d8%a7%d9%84-%d9%88/",
-   "source": "موزه هنرهای معاصر تهران",
-   "kind": "exhibition",
-   "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15"
   },
   {
    "id": "be553b373627",
@@ -2491,15 +2473,6 @@
    "last_seen": "2026-10-29"
   },
   {
-   "id": "42ad4cdf653d",
-   "title": "کارگاه آموزشی «آشنایی با فرایند چاپ سایانوتایپ»",
-   "url": "https://tmoca.com/news/workshops-4/",
-   "source": "موزه هنرهای معاصر تهران",
-   "kind": "workshop",
-   "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15"
-  },
-  {
    "id": "41a821eae08a",
    "title": "تدوین و جلوه های ویژه",
    "url": "https://mftzf.com/departments/%D9%87%D9%86%D8%B1-%D9%88-%D8%B3%DB%8C%D9%86%D9%85%D8%A7/%D8%AA%D8%AF%D9%88%DB%8C%D9%86-%D9%88-%D8%AC%D9%84%D9%88%D9%87-%D9%87%D8%A7%DB%8C-%D9%88%DB%8C%DA%98%D9%87",
@@ -2761,5 +2734,5 @@
    "last_seen": "2026-11-12"
   }
  ],
- "updated": "2026-11-12T14:06+00:00"
+ "updated": "2026-11-13T03:48+00:00"
 }
