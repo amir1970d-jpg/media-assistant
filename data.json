@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 5
+   "count": 4
   },
   {
    "name": "کارنامه",
@@ -23,7 +23,7 @@
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
    "status": "ok",
-   "count": 5
+   "count": 7
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -47,7 +47,7 @@
    "name": "مجتمع فنی تهران - نیاوران",
    "url": "https://mftniavaran.com/department/culture-art/",
    "status": "ok",
-   "count": 1
+   "count": 10
   },
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
@@ -69,6 +69,159 @@
   }
  ],
  "items": [
+  {
+   "id": "ffcc3d88534f",
+   "title": "دوره تصویربرداری",
+   "url": "https://mftniavaran.com/class/imaging/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "e44bf849f912",
+   "title": "آموزش دوره پریمیر (تدوین فیلم)",
+   "url": "https://mftniavaran.com/class/pr1/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "dfdcca9bf363",
+   "title": "عکاسی دیجیتال (آنلاین)",
+   "url": "https://mftniavaran.com/class/anakkasi/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "da87162d77ac",
+   "title": "دپارتمان هنر و سینمای دیجیتال و گرافیک",
+   "url": "https://mftniavaran.com/department/culture-art/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "d23286d7e737",
+   "title": "معرفی مدیران جشنواره تئاتر فجر",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208916-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%85%D8%AF%DB%8C%D8%B1%D8%A7%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%81%D8%AC%D8%B1",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "c0c4931662ed",
+   "title": "صدرنشینی «بورسیه» تداوم یافت؛ فروش ۵۰ میلیاردی سینما در هفته گذشته",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208912-%D8%B5%D8%AF%D8%B1%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C%D9%87-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%DB%8C%D8%A7%D9%81%D8%AA-%D9%81%D8%B1%D9%88%D8%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "b7dc607bcc9a",
+   "title": "روایت حدیث کساء به خط نسخ در نمایشگاه «کلک مستوران»",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/208917-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%AD%D8%AF%DB%8C%D8%AB-%DA%A9%D8%B3%D8%A7%D8%A1-%D8%A8%D9%87-%D8%AE%D8%B7-%D9%86%D8%B3%D8%AE-%D8%AF%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%DA%A9%D9%84%DA%A9-%D9%85%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "exhibition",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "a9d6e0a17dd0",
+   "title": "دومین نشست تخصصی نمایشگاه «جست‌وجوی ایران»",
+   "url": "https://tmoca.com/news/%d8%af%d9%88%d9%85%db%8c%d9%86-%d9%86%d8%b4%d8%b3%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%ac%d8%b3%d8%aa%d9%88%d8%ac%d9%88%db%8c-%d8%a7/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "9ebb00ea5152",
+   "title": "نشست اول تحلیلی نمایشگاه «جست و جوی ایران»",
+   "url": "https://tmoca.com/news/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c-%d9%86%d8%b4%d8%b3%d8%aa-%d8%a7%d9%88%d9%84-%d8%aa%d8%ad%d9%84%db%8c%d9%84%db%8c-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "8d5317842a36",
+   "title": "دوره کارگردانی سینما",
+   "url": "https://mftniavaran.com/class/director1/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "73894912f344",
+   "title": "فیلم «ای ایران»",
+   "url": "https://tmoca.com/events/cinematheque/%d9%81%db%8c%d9%84%d9%85-%d8%a7%db%8c-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "6829514a36d4",
+   "title": "آموزش عکاسی پرتره",
+   "url": "https://mftniavaran.com/class/dij21/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "62159a0b58f5",
+   "title": "کارگاه تخصصی پرامپت نویسی",
+   "url": "https://mftniavaran.com/class/6706/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "29fc9d7f959d",
+   "title": "فیلم برداری با موبایل",
+   "url": "https://mftniavaran.com/class/3000/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "170c41e94ac3",
+   "title": "برنامه نمایش آثار جشنواره «آب به قیمت جان» اعلام شد",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208920-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%A2%D8%A8-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%A7%D9%86-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "0a8a38764ce2",
+   "title": "دوره عکاسی با موبایل",
+   "url": "https://mftniavaran.com/class/4123/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
+  {
+   "id": "06db1c997fd1",
+   "title": "آموزش عکاسی دیجیتال",
+   "url": "https://mftniavaran.com/course/digital-photography-course/",
+   "source": "مجتمع فنی تهران - نیاوران",
+   "kind": "workshop",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14"
+  },
   {
    "id": "d3b64b849930",
    "title": "«پرواز ۶۵۵» ده‌نمکی به تدوین رسید",
@@ -2725,5 +2878,5 @@
    "last_seen": "2026-11-12"
   }
  ],
- "updated": "2026-11-14T03:46+00:00"
+ "updated": "2026-11-14T12:36+00:00"
 }
