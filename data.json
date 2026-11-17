@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 34
+   "count": 38
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 25
+   "count": 24
   },
   {
    "name": "ایسنا",
@@ -1084,7 +1084,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "8832c8c8cb35",
@@ -1537,24 +1537,6 @@
    "last_seen": "2026-11-01"
   },
   {
-   "id": "c08699a1d9ed",
-   "title": "نمایش «بک‌استیج»، ویژه هنرمندان تئاتر و سینما اجرا می‌شود",
-   "url": "https://www.tiwall.com/news/backstage5.honarmandan",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19"
-  },
-  {
-   "id": "b7fde300becc",
-   "title": "از فیلم های پرمخاطب یک رویداد تا چند داستان دیگر",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208648-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D9%85-%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D9%85%D8%AE%D8%A7%D8%B7%D8%A8-%DB%8C%DA%A9-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D8%AA%D8%A7-%DA%86%D9%86%D8%AF-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%DB%8C%DA%AF%D8%B1",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19"
-  },
-  {
    "id": "a50a78f652df",
    "title": "آموزش عکاسی محصول",
    "url": "https://academy.didnegar.com/product/professional-product-photography-training/",
@@ -1562,15 +1544,6 @@
    "kind": "workshop",
    "first_seen": "2026-10-19",
    "last_seen": "2026-11-13"
-  },
-  {
-   "id": "850154853176",
-   "title": "سه روز تا پایان مهلت ارائه آثار به جشنواره تئاتر کودک و نوجوان",
-   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208655-%D8%B3%D9%87-%D8%B1%D9%88%D8%B2-%D8%AA%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%D9%87%D9%84%D8%AA-%D8%A7%D8%B1%D8%A7%D8%A6%D9%87-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A8%D9%87-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%DA%A9%D9%88%D8%AF%DA%A9-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19"
   },
   {
    "id": "79c226288a01",
@@ -1589,15 +1562,6 @@
    "kind": "workshop",
    "first_seen": "2026-10-19",
    "last_seen": "2026-11-14"
-  },
-  {
-   "id": "2f4e1e15b37e",
-   "title": "فراخوان جشنواره عکاسی موبایل «تهران‌ زیبا» منتشر شد",
-   "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/208657-%D9%81%D8%B1%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%B9%DA%A9%D8%A7%D8%B3%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B2%DB%8C%D8%A8%D8%A7-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19"
   },
   {
    "id": "fa4ba6218a52",
@@ -1687,7 +1651,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-09"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "5149ea0f8b9c",
@@ -1705,7 +1669,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "c8af11b0e18a",
@@ -1723,7 +1687,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "bc1ccc1a3c76",
@@ -1741,7 +1705,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "a315b03db217",
@@ -1759,7 +1723,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "9c838715f51b",
@@ -1804,7 +1768,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "43602ce572cd",
@@ -1822,7 +1786,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "314176bbe747",
@@ -1831,7 +1795,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "2a5839e9ae00",
@@ -1840,7 +1804,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "d15c5dd0a6fc",
@@ -1852,22 +1816,13 @@
    "last_seen": "2026-10-20"
   },
   {
-   "id": "1701ac3bc2c1",
-   "title": "معرفی فینالیست‌های جوایز عکاسی کمدی نیکون 2026",
-   "url": "https://yphc.ir/news/104187/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%81%db%8c%d9%86%d8%a7%d9%84%db%8c%d8%b3%d8%aa%d9%87%d8%a7%db%8c-%d8%ac%d9%88%d8%a7%db%8c%d8%b2-%d8%b9%da%a9%d8%a7%d8%b3%db%8c-%da%a9%d9%85%d8%af%db%8c-%d9%86/",
-   "source": "باشگاه عکاسان جوان",
-   "kind": "workshop",
-   "first_seen": "2026-10-12",
-   "last_seen": "2026-10-19"
-  },
-  {
    "id": "ff8a32a38871",
    "title": "آموزش صفر تا صد ادیت عکس",
    "url": "https://academy.didnegar.com/training-from-zero-to-one-hundred-photo-editing/",
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "e6a11076466e",
@@ -1966,7 +1921,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "4eb3dcc28e8e",
@@ -1975,7 +1930,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-09"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "3f6dfa6db91c",
@@ -1984,7 +1939,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "122a374f174f",
@@ -2030,15 +1985,6 @@
    "kind": "other",
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-29"
-  },
-  {
-   "id": "1ec6f7e6c101",
-   "title": "نمایش درس ک: بهزاد عشقی / ن: اوژن یونسکو آموزشگاه سینمایی پروین - رشت ۲۰ تا ۳۰ مهر ۲۰:۰۰ ۳۰۰,۰۰۰ تومان خرید بلیت رشت",
-   "url": "https://www.tiwall.com/p/dars6",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-09",
-   "last_seen": "2026-10-19"
   },
   {
    "id": "fba0b8ba504e",
@@ -2263,7 +2209,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "b5f0fb571e1e",
@@ -2839,7 +2785,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "104632505d1c",
@@ -2896,5 +2842,5 @@
    "last_seen": "2026-11-12"
   }
  ],
- "updated": "2026-11-16T14:06+00:00"
+ "updated": "2026-11-17T01:11+00:00"
 }
