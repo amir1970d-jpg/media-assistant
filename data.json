@@ -23,7 +23,7 @@
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
    "status": "ok",
-   "count": 6
+   "count": 3
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -41,13 +41,13 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 38
+   "count": 34
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
    "url": "https://mftniavaran.com/department/culture-art/",
    "status": "ok",
-   "count": 10
+   "count": 9
   },
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
@@ -58,8 +58,9 @@
   {
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
-   "status": "ok",
-   "count": 24
+   "status": "error",
+   "error": "HTTPSConnectionPool(host='www.honaronline.ir', port=443): Read timed out.",
+   "count": 0
   },
   {
    "name": "ایسنا",
@@ -69,6 +70,51 @@
   }
  ],
  "items": [
+  {
+   "id": "dcf9f926363f",
+   "title": "کاتالوگ نمایشگاه «مینی‌مالیسم و کانسپچوال آرت در هنر میانه قرن بیستم»",
+   "url": "https://tmoca.com/cultural-products/publications/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d9%85%db%8c%d9%86%db%8c%d9%85%d8%a7%d9%84%db%8c%d8%b3%d9%85-%d9%88-%da%a9%d8%a7%d9%86%d8%b3/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
+  {
+   "id": "d73e8347581d",
+   "title": "پوستر دوم نمایش «تن‌ لش» به کارگردانی احمد بیگی منتشر شد.",
+   "url": "https://www.tiwall.com/news/tanelash.poster",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
+  {
+   "id": "cd0e446de71f",
+   "title": "دومین نشست از سلسله ‌نشست‌های مرتبط با نمایشگاه «در جستجوی ایران»",
+   "url": "https://tmoca.com/news/%d8%af%d9%88%d9%85%db%8c%d9%86-%d9%86%d8%b4%d8%b3%d8%aa-%d8%a7%d8%b2-%d8%b3%d9%84%d8%b3%d9%84%d9%87-%d9%86%d8%b4%d8%b3%d8%aa%d9%87%d8%a7%db%8c-%d9%85%d8%b1%d8%aa%d8%a8%d8%b7-%d8%a8/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
+  {
+   "id": "7ce0eb0b7c8d",
+   "title": "کاتالوگ نمایشگاه «مروری بر آثار و زندگی علی‌اکبر صادقی»",
+   "url": "https://tmoca.com/cultural-products/publications/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d9%85%d8%b1%d9%88%d8%b1%db%8c-%d8%a8%d8%b1-%d8%a2%d8%ab%d8%a7%d8%b1-%d9%88-%d8%b2%d9%86%d8%af%da%af/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
+  {
+   "id": "43d8a5c49e46",
+   "title": "نمایش «رفتاربانان» به نویسندگی علی حسین‌زاده و محمود اشرف‌زارعی و طراحی و کارگردانی علی حسین‌زاده، از اواسط آذرماه روی صحنه می‌رود.",
+   "url": "https://www.tiwall.com/news/nan2.alihoseinzadeh",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17"
+  },
   {
    "id": "91f658e41586",
    "title": "سیاستگذاری در فیلم‌سریال سازی؛ «تولد یک نجیب‌زاده» کی به آنتن می‌رسد؟",
@@ -1525,7 +1571,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-09"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "c3b207ad5bfd",
@@ -1741,7 +1787,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "883fb66770b4",
@@ -1777,7 +1823,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "33d1ced9734b",
@@ -1912,7 +1958,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "5eb6b12d0d9f",
@@ -1948,7 +1994,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "06d7c7c3d18b",
@@ -2173,7 +2219,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "c8409a24fa5d",
@@ -2614,7 +2660,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-17"
   },
   {
    "id": "3ecdea040a7e",
@@ -2842,5 +2888,5 @@
    "last_seen": "2026-11-12"
   }
  ],
- "updated": "2026-11-17T01:11+00:00"
+ "updated": "2026-11-17T15:00+00:00"
 }
