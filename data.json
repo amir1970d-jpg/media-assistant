@@ -58,9 +58,8 @@
   {
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
-   "status": "error",
-   "error": "HTTPSConnectionPool(host='www.honaronline.ir', port=443): Read timed out.",
-   "count": 0
+   "status": "ok",
+   "count": 27
   },
   {
    "name": "ایسنا",
@@ -70,6 +69,42 @@
   }
  ],
  "items": [
+  {
+   "id": "8a426cf2c7a4",
+   "title": "فیلمبرداری «۱۴ یار اوشن» باز هم عقب افتاد؛ خبر جدید از «F۱»",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208964-%D9%81%DB%8C%D9%84%D9%85%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DB%8C%D8%A7%D8%B1-%D8%A7%D9%88%D8%B4%D9%86-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%B9%D9%82%D8%A8-%D8%A7%D9%81%D8%AA%D8%A7%D8%AF-%D8%AE%D8%A8%D8%B1-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D8%B2",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
+  },
+  {
+   "id": "340666277a86",
+   "title": "«ذوق‌مرگ» شدن پژمان جمشیدی با رقص کردی + فیلم",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208967-%D8%B0%D9%88%D9%82-%D9%85%D8%B1%DA%AF-%D8%B4%D8%AF%D9%86-%D9%BE%DA%98%D9%85%D8%A7%D9%86-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF%DB%8C-%D8%A8%D8%A7-%D8%B1%D9%82%D8%B5-%DA%A9%D8%B1%D8%AF%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
+  },
+  {
+   "id": "32c84fd802cc",
+   "title": "پیام وزیر فرهنگ برای جشنواره تئاتر مقاومت",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208960-%D9%BE%DB%8C%D8%A7%D9%85-%D9%88%D8%B2%DB%8C%D8%B1-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
+  },
+  {
+   "id": "2a78d7f36e39",
+   "title": "از خارک تا خرم‌آباد؛‌ نامزدی هشت اثر در جشنواره تئاتر کودک و نوجوان",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208965-%D8%A7%D8%B2-%D8%AE%D8%A7%D8%B1%DA%A9-%D8%AA%D8%A7-%D8%AE%D8%B1%D9%85-%D8%A2%D8%A8%D8%A7%D8%AF-%D9%86%D8%A7%D9%85%D8%B2%D8%AF%DB%8C-%D9%87%D8%B4%D8%AA-%D8%A7%D8%AB%D8%B1-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%DA%A9%D9%88%D8%AF%DA%A9-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18"
+  },
   {
    "id": "dcf9f926363f",
    "title": "کاتالوگ نمایشگاه «مینی‌مالیسم و کانسپچوال آرت در هنر میانه قرن بیستم»",
@@ -482,7 +517,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-18"
   },
   {
    "id": "f5cde8f5825a",
@@ -1457,24 +1492,6 @@
    "last_seen": "2026-11-01"
   },
   {
-   "id": "ad1bb45be490",
-   "title": "اکران فیلم‌تئاتر «ملاقات بانوی سالخورده»",
-   "url": "https://tmoca.com/events/cinematheque/5289/",
-   "source": "موزه هنرهای معاصر تهران",
-   "kind": "exhibition",
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
-  },
-  {
-   "id": "a738d9ffe597",
-   "title": "مونا فرجاد مجری اختتامیه جشنواره نمایش عروسکی تهران-مبارک شد",
-   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208667-%D9%85%D9%88%D9%86%D8%A7-%D9%81%D8%B1%D8%AC%D8%A7%D8%AF-%D9%85%D8%AC%D8%B1%DB%8C-%D8%A7%D8%AE%D8%AA%D8%AA%D8%A7%D9%85%DB%8C%D9%87-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D8%B9%D8%B1%D9%88%D8%B3%DA%A9%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D8%A8%D8%A7%D8%B1%DA%A9-%D8%B4%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
-  },
-  {
    "id": "9e2d6847f4a4",
    "title": "نمایش مستندی درباره « رود ارس»",
    "url": "https://tmoca.com/events/cinematheque/%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d9%85%d8%b3%d8%aa%d9%86%d8%af%db%8c-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d8%b1%d9%88%d8%af-%d8%a7%d8%b1%d8%b3/",
@@ -1482,24 +1499,6 @@
    "kind": "exhibition",
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-27"
-  },
-  {
-   "id": "9d1138d212f9",
-   "title": "نمایش همه بگید سیب اجرای عموم ک: نوشین بیگلریان / ن: شراره طیار سینما کانون پرورش فکری کودکان نوجوان - همدان ۱۵ تا ۳۰ مهر ۱۶:۰۰ ۵۰,۰۰۰ تومان خرید بلیت همدان",
-   "url": "https://www.tiwall.com/p/begid.sib4",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
-  },
-  {
-   "id": "49e7f643f504",
-   "title": "بازگشت «دیوانه خانه زری بوره» بدون هیچ تغییری در کارگاه تئاتر",
-   "url": "https://www.tiwall.com/news/madhouse.bazgasht",
-   "source": "تیوال",
-   "kind": "workshop",
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
   },
   {
    "id": "3d362e0e90db",
@@ -1518,33 +1517,6 @@
    "kind": "exhibition",
    "first_seen": "2026-10-20",
    "last_seen": "2026-11-01"
-  },
-  {
-   "id": "14272690425a",
-   "title": "نمایش فیلم «عروسک»",
-   "url": "https://tmoca.com/events/cinematheque/%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d9%81%db%8c%d9%84%d9%85-%d8%b9%d8%b1%d9%88%d8%b3%da%a9/",
-   "source": "موزه هنرهای معاصر تهران",
-   "kind": "exhibition",
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
-  },
-  {
-   "id": "118728cdc3f0",
-   "title": "نمایش ساوانابای آدم به حکم ادب مانع مُردن خود می‌شود. ک: یاسر متاجی / ن: مارگارت دوراس تئاترشهر - کارگاه نمایش ۰۵ تا ۲۹ آبان ۱۹:۱۵ ۲۵۰,۰۰۰ تومان خرید بلیت",
-   "url": "https://www.tiwall.com/p/savana.bay2",
-   "source": "تیوال",
-   "kind": "workshop",
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
-  },
-  {
-   "id": "111e5103a467",
-   "title": "شکرخواه: اتکای بیش از حد به هوش مصنوعی سینما را کلیشه‌ای می‌کند",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208662-%D8%B4%DA%A9%D8%B1%D8%AE%D9%88%D8%A7%D9%87-%D8%A7%D8%AA%DA%A9%D8%A7%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%AD%D8%AF-%D8%A8%D9%87-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%B1%D8%A7-%DA%A9%D9%84%DB%8C%D8%B4%D9%87-%D8%A7%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
   },
   {
    "id": "0609c635c9cc",
@@ -1724,7 +1696,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-18"
   },
   {
    "id": "c65d7ecd5c2f",
@@ -1853,15 +1825,6 @@
    "last_seen": "2026-11-17"
   },
   {
-   "id": "d15c5dd0a6fc",
-   "title": "شکوفایی هزاران لاله در جشنواره تسلار",
-   "url": "https://yphc.ir/news/104215/%d8%b4%da%a9%d9%88%d9%81%d8%a7%db%8c%db%8c-%d9%87%d8%b2%d8%a7%d8%b1%d8%a7%d9%86-%d9%84%d8%a7%d9%84%d9%87-%d8%af%d8%b1-%d8%ac%d8%b4%d9%86%d9%88%d8%a7%d8%b1%d9%87-%d8%aa%d8%b3%d9%84%d8%a7%d8%b1/",
-   "source": "باشگاه عکاسان جوان",
-   "kind": "workshop",
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-20"
-  },
-  {
    "id": "ff8a32a38871",
    "title": "آموزش صفر تا صد ادیت عکس",
    "url": "https://academy.didnegar.com/training-from-zero-to-one-hundred-photo-editing/",
@@ -1877,7 +1840,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-18"
   },
   {
    "id": "cb3bf358e550",
@@ -1886,7 +1849,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-03"
+   "last_seen": "2026-11-18"
   },
   {
    "id": "c9c333f67519",
@@ -1904,7 +1867,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-18"
   },
   {
    "id": "a8d4e7cfb735",
@@ -1949,7 +1912,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-18"
   },
   {
    "id": "7557d58cc84a",
@@ -2597,7 +2560,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-18"
   },
   {
    "id": "4d4cd247523d",
@@ -2786,7 +2749,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-18"
   },
   {
    "id": "224edcc0ec30",
@@ -2840,7 +2803,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-08"
+   "last_seen": "2026-11-18"
   },
   {
    "id": "0d1d9d3412f8",
@@ -2888,5 +2851,5 @@
    "last_seen": "2026-11-12"
   }
  ],
- "updated": "2026-11-17T15:00+00:00"
+ "updated": "2026-11-18T00:06+00:00"
 }
