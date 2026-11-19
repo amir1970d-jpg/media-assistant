@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 2
+   "count": 6
   },
   {
    "name": "کارنامه",
@@ -47,7 +47,7 @@
    "name": "مجتمع فنی تهران - نیاوران",
    "url": "https://mftniavaran.com/department/culture-art/",
    "status": "ok",
-   "count": 8
+   "count": 6
   },
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
@@ -69,6 +69,24 @@
   }
  ],
  "items": [
+  {
+   "id": "628df44b6d18",
+   "title": "جشنواره نمایشنامه‌خوانی مرکز تئاتر مولوی، دوره هشتم",
+   "url": "https://www.tiwall.com/showcase?filters=s:mthf8",
+   "source": "تیوال",
+   "kind": "workshop",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "id": "4783672c3cab",
+   "title": "نمایش حاکمانه این داستان چشم در برابر چشم ک: علیرضا اسمی پردیس سینمایی امین تارخ - شیراز ۱۶ تا ۳۰ آذر ۲۰:۳۰ ۶۰۰,۰۰۰ تومان خرید از جمعه ۰۶ آذر ساعت ۱۲:۰۰ شیراز",
+   "url": "https://www.tiwall.com/p/hakemaneh",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
   {
    "id": "013c8e80804b",
    "title": "تماشای فیلم و سریال‌های قدیمی با موضوع کتاب رایگان شد",
@@ -2797,5 +2815,5 @@
    "last_seen": "2026-11-19"
   }
  ],
- "updated": "2026-11-19T14:47+00:00"
+ "updated": "2026-11-19T23:57+00:00"
 }
