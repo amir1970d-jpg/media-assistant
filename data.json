@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 10
+   "count": 6
   },
   {
    "name": "کارنامه",
@@ -310,7 +310,7 @@
    "source": "مجتمع فنی تهران - نیاوران",
    "kind": "workshop",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "f99dac9e4bc1",
@@ -337,7 +337,7 @@
    "source": "مجتمع فنی تهران - نیاوران",
    "kind": "workshop",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "de31e14e25e8",
@@ -355,7 +355,7 @@
    "source": "مجتمع فنی تهران - نیاوران",
    "kind": "workshop",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "d23286d7e737",
@@ -436,7 +436,7 @@
    "source": "مجتمع فنی تهران - نیاوران",
    "kind": "workshop",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "62159a0b58f5",
@@ -445,7 +445,7 @@
    "source": "مجتمع فنی تهران - نیاوران",
    "kind": "workshop",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "4aad48e121e4",
@@ -481,7 +481,7 @@
    "source": "مجتمع فنی تهران - نیاوران",
    "kind": "workshop",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "06db1c997fd1",
@@ -490,7 +490,7 @@
    "source": "مجتمع فنی تهران - نیاوران",
    "kind": "workshop",
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "d3b64b849930",
@@ -661,7 +661,7 @@
    "source": "تیوال",
    "kind": "workshop",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-09"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "a34a09993944",
@@ -1366,15 +1366,6 @@
    "last_seen": "2026-11-16"
   },
   {
-   "id": "2eacb3ee7884",
-   "title": "نمایش میزبان | واله ن و ک: یکتا رستمی تماشاخانه هیلاج - کارگاه نمایش چهارشنبه ۰۶ تا ۰۸ آبان ۲۰:۳۰ ۳۳۳,۰۰۰ تومان خرید بلیت",
-   "url": "https://www.tiwall.com/p/vale2",
-   "source": "تیوال",
-   "kind": "workshop",
-   "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23"
-  },
-  {
    "id": "0703cf1d1ea6",
    "title": "عکاسی تبلیغاتی طلا و جواهرات",
    "url": "https://academy.didnegar.com/product/gold-and-jewelry-photography/",
@@ -1543,7 +1534,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "fa4ba6218a52",
@@ -1552,7 +1543,7 @@
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "f1edb63104d9",
@@ -1561,7 +1552,7 @@
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "c73dfc11d0e5",
@@ -1579,7 +1570,7 @@
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "b90b8dc6afe3",
@@ -1597,7 +1588,7 @@
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "bb7b817cf79b",
@@ -1606,7 +1597,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-21"
   },
   {
    "id": "ae56cdc68803",
@@ -2806,5 +2797,5 @@
    "last_seen": "2026-11-19"
   }
  ],
- "updated": "2026-11-20T14:28+00:00"
+ "updated": "2026-11-21T04:28+00:00"
 }
