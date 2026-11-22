@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 27
+   "count": 26
   },
   {
    "name": "ایسنا",
@@ -109,6 +109,15 @@
    "id": "8bd43457cb31",
    "title": "۲ انتصاب تازه در جشنواره تئاتر فجر",
    "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/209024-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%A8-%D8%AA%D8%A7%D8%B2%D9%87-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%81%D8%AC%D8%B1",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  {
+   "id": "83b9c85ed585",
+   "title": "حضور ۲۵۷۸ هنرمند در جشنواره موسیقی جوان",
+   "url": "https://honaronline.ir/بخش-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/209030-%D8%AD%D8%B6%D9%88%D8%B1-%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D8%AC%D9%88%D8%A7%D9%86",
    "source": "هنرآنلاین",
    "kind": "news",
    "first_seen": "2026-11-22",
@@ -2851,5 +2860,5 @@
    "last_seen": "2026-11-19"
   }
  ],
- "updated": "2026-11-22T13:41+00:00"
+ "updated": "2026-11-22T22:53+00:00"
 }
