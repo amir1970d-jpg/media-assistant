@@ -23,7 +23,7 @@
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
    "status": "ok",
-   "count": 4
+   "count": 5
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 28
+   "count": 27
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,51 @@
   }
  ],
  "items": [
+  {
+   "id": "e4bf98bba17b",
+   "title": "«کوچ» به روستاها و شهرهای فاقد سینما می‌رود",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/209025-%DA%A9%D9%88%DA%86-%D8%A8%D9%87-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%87%D8%A7-%D8%B4%D9%87%D8%B1%D9%87%D8%A7%DB%8C-%D9%81%D8%A7%D9%82%D8%AF-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  {
+   "id": "e08f826703ab",
+   "title": "مستند «قوی‌دل»",
+   "url": "https://tmoca.com/events/cinematheque/%d9%85%d8%b3%d8%aa%d9%86%d8%af-%d9%82%d9%88%db%8c%d8%af%d9%84/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  {
+   "id": "d89c5ca4680c",
+   "title": "سومین نشست تخصصی نمایشگاه «جست‌وجوی ایران",
+   "url": "https://tmoca.com/news/%d8%b3%d9%88%d9%85%db%8c%d9%86-%d9%86%d8%b4%d8%b3%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%ac%d8%b3%d8%aa%d9%88%d8%ac%d9%88%db%8c-%d8%a7/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  {
+   "id": "b111258fb272",
+   "title": "بیستمین جشنواره تئاتر مقاومت در ایستگاه پایانی؛ هنر ابزار روایت‌ است",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/209020-%D8%A8%DB%8C%D8%B3%D8%AA%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C-%D9%87%D9%86%D8%B1-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
+  {
+   "id": "8bd43457cb31",
+   "title": "۲ انتصاب تازه در جشنواره تئاتر فجر",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/209024-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%A8-%D8%AA%D8%A7%D8%B2%D9%87-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%81%D8%AC%D8%B1",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-22",
+   "last_seen": "2026-11-22"
+  },
   {
    "id": "cd817accd0b0",
    "title": "سرسنگی و ناصربخت مهمانان ویژه نوزدهمین جشنواره تئاتر خیابانی مریوان",
@@ -1426,7 +1471,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-22"
   },
   {
    "id": "35760f7a8f19",
@@ -1705,7 +1750,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-13"
+   "last_seen": "2026-11-22"
   },
   {
    "id": "a05bd681c1c3",
@@ -1741,7 +1786,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-22"
   },
   {
    "id": "5dba58dcb933",
@@ -1867,7 +1912,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-22"
   },
   {
    "id": "786cfbdf5187",
@@ -2245,7 +2290,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-22"
   },
   {
    "id": "a4f135e5b106",
@@ -2731,7 +2776,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-22"
   },
   {
    "id": "1b1ddf3a0e3a",
@@ -2806,5 +2851,5 @@
    "last_seen": "2026-11-19"
   }
  ],
- "updated": "2026-11-22T03:43+00:00"
+ "updated": "2026-11-22T13:41+00:00"
 }
