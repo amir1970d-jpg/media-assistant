@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 1
+   "count": 6
   },
   {
    "name": "کارنامه",
@@ -35,7 +35,7 @@
    "name": "باشگاه عکاسان جوان",
    "url": "https://yphc.ir",
    "status": "ok",
-   "count": 12
+   "count": 21
   },
   {
    "name": "آکادمی دیدنگار",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 26
+   "count": 25
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,33 @@
   }
  ],
  "items": [
+  {
+   "id": "e0199c59e459",
+   "title": "معرفی 4 مدیر بیستمین جشنواره «سینماحقیقت»",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/209048-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%85%D8%AF%DB%8C%D8%B1-%D8%A8%DB%8C%D8%B3%D8%AA%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D8%AD%D9%82%DB%8C%D9%82%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  {
+   "id": "b42c3d7d35ef",
+   "title": "فیلم‌تئاتر فرزند یک خنیاگرم ک: امیرحسین غفاری / ن: شکرخدا گودرزی ۱۲۰,۰۰۰ تومان خرید از فردا ساعت ۱۱:۰۰",
+   "url": "https://www.tiwall.com/p/farzand.khonyagaram3",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
+  {
+   "id": "94cefc3a5cc0",
+   "title": "چند نکته درباره بخش «نگاه نو» جشنواره موسیقی نواحی",
+   "url": "https://honaronline.ir/بخش-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/209050-%DA%86%D9%86%D8%AF-%D9%86%DA%A9%D8%AA%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%AE%D8%B4-%D9%86%DA%AF%D8%A7%D9%87-%D9%86%D9%88-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D9%86%D9%88%D8%A7%D8%AD%DB%8C",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23"
+  },
   {
    "id": "e4bf98bba17b",
    "title": "«کوچ» به روستاها و شهرهای فاقد سینما می‌رود",
@@ -1273,7 +1300,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "09dc1d756f0e",
@@ -1651,7 +1678,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-13"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "801e2c8cd190",
@@ -1660,7 +1687,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "5c920956ea6d",
@@ -1993,7 +2020,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "f90fc22af400",
@@ -2020,7 +2047,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "f47b4d760293",
@@ -2227,7 +2254,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "b1ee8f814507",
@@ -2281,7 +2308,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "a4738552cdda",
@@ -2326,7 +2353,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-07"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "97eecff2bcd4",
@@ -2407,7 +2434,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "77becddce5a5",
@@ -2443,7 +2470,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "6b2f6ad4fb8d",
@@ -2470,7 +2497,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "67d6f8c8175e",
@@ -2479,7 +2506,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "61abc3598302",
@@ -2497,7 +2524,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "5f375fb3bd34",
@@ -2569,7 +2596,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "41a821eae08a",
@@ -2632,7 +2659,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-15"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "3a51cde16a5e",
@@ -2722,7 +2749,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-29"
+   "last_seen": "2026-11-23"
   },
   {
    "id": "2541b1badd46",
@@ -2833,5 +2860,5 @@
    "last_seen": "2026-11-19"
   }
  ],
- "updated": "2026-11-23T04:19+00:00"
+ "updated": "2026-11-23T16:39+00:00"
 }
