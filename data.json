@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 6
+   "count": 8
   },
   {
    "name": "کارنامه",
@@ -69,6 +69,24 @@
   }
  ],
  "items": [
+  {
+   "id": "3823d177113d",
+   "title": "جنگ سگ‌های نگهبان با حضور رومی و استیچ پردیس سینمایی شمیران - سالن پنج (قرمز) جمعه ۰۶ آذر ۱۵:۳۰ ۸۰۰,۰۰۰ تا ۳۵۰,۰۰۰ تومان خرید بلیت ٪۲۰",
+   "url": "https://www.tiwall.com/p/paw.patrol41",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "157299617007",
+   "title": "نمایش نیمه پنهان ن و ک: عرشیا غفاری تماشاخانه هیلاج - کارگاه نمایش سه‌شنبه ۱۰ تا ۱۲ آذر ۱۹:۳۰ ۳۰۰,۰۰۰ تومان خرید بلیت",
+   "url": "https://www.tiwall.com/p/nime.penhan",
+   "source": "تیوال",
+   "kind": "workshop",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
   {
    "id": "e0199c59e459",
    "title": "معرفی 4 مدیر بیستمین جشنواره «سینماحقیقت»",
@@ -337,7 +355,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "7ce0eb0b7c8d",
@@ -346,7 +364,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "43d8a5c49e46",
@@ -1339,33 +1357,6 @@
    "last_seen": "2026-10-27"
   },
   {
-   "id": "cdf726439d89",
-   "title": "پوستر نمایش «تن و دیگر تکه‌پاره‌های عشق» به کارگردانی رضا بهکام، با طراحی علیرضا محمدیان رونمایی شد.",
-   "url": "https://www.tiwall.com/news/eshgh5.poster",
-   "source": "تیوال",
-   "kind": "other",
-   "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26"
-  },
-  {
-   "id": "cd026e82addf",
-   "title": "جشنواره فیلم کوتاه ۳۴ هزار و ۸۸۰ مخاطب داشت",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208708-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%D8%AE%D8%A7%D8%B7%D8%A8-%D8%AF%D8%A7%D8%B4%D8%AA",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26"
-  },
-  {
-   "id": "972c5528b63b",
-   "title": "۵ فیلمنامه مجوز ساخت گرفتند؛ از کاظم دانشی تا امین زندگانی",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208716-%D9%81%DB%8C%D9%84%D9%85%D9%86%D8%A7%D9%85%D9%87-%D9%85%D8%AC%D9%88%D8%B2-%D8%B3%D8%A7%D8%AE%D8%AA-%DA%AF%D8%B1%D9%81%D8%AA%D9%86%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B8%D9%85-%D8%AF%D8%A7%D9%86%D8%B4%DB%8C-%D8%AA%D8%A7-%D8%A7%D9%85%DB%8C%D9%86-%D8%B2%D9%86%D8%AF%DA%AF%D8%A7%D9%86%DB%8C",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26"
-  },
-  {
    "id": "9162c3b33d79",
    "title": "ژست خلاق در عکاسی خیابانی",
    "url": "https://academy.didnegar.com/creative-pose-in-street-photography/",
@@ -1382,24 +1373,6 @@
    "kind": "workshop",
    "first_seen": "2026-10-26",
    "last_seen": "2026-11-02"
-  },
-  {
-   "id": "815c41c9e957",
-   "title": "شیوه‌نامه معرفی آثار منتخب «۷ سال سینمای ایران» منتشر شد",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208713-%D8%B4%DB%8C%D9%88%D9%87-%D9%86%D8%A7%D9%85%D9%87-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%A2%D8%AB%D8%A7%D8%B1-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%B3%D8%A7%D9%84-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26"
-  },
-  {
-   "id": "6444c2f92d65",
-   "title": "۶۰ درصد از صاحبان آثار جشنواره فیلم ۱۰۰ فیلم‌اولی بودند",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208712-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D8%B2-%D8%B5%D8%A7%D8%AD%D8%A8%D8%A7%D9%86-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%81%DB%8C%D9%84%D9%85-%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D9%88%D9%84%DB%8C-%D8%A8%D9%88%D8%AF%D9%86%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26"
   },
   {
    "id": "1da83012a682",
@@ -1696,7 +1669,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "5149ea0f8b9c",
@@ -1948,7 +1921,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "5eb6b12d0d9f",
@@ -1975,7 +1948,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "122a374f174f",
@@ -1984,7 +1957,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "06d7c7c3d18b",
@@ -2191,7 +2164,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "c8409a24fa5d",
@@ -2860,5 +2833,5 @@
    "last_seen": "2026-11-19"
   }
  ],
- "updated": "2026-11-23T16:39+00:00"
+ "updated": "2026-11-24T03:32+00:00"
 }
