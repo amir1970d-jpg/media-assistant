@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 8
+   "count": 2
   },
   {
    "name": "کارنامه",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 35
+   "count": 37
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 25
+   "count": 27
   },
   {
    "name": "ایسنا",
@@ -70,6 +70,42 @@
  ],
  "items": [
   {
+   "id": "e54712131810",
+   "title": "ستاره اسکندری از اواخر آذر به تماشاخانه ایران‌شهر می‌آید + عکس",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/209070-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%A7%D8%B3%DA%A9%D9%86%D8%AF%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%A7%D9%88%D8%A7%D8%AE%D8%B1-%D8%A2%D8%B0%D8%B1-%D8%A8%D9%87-%D8%AA%D9%85%D8%A7%D8%B4%D8%A7%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D9%87%D8%B1-%D9%85%DB%8C-%D8%A2%DB%8C%D8%AF-%D8%B9%DA%A9%D8%B3",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "b09c88dcb00e",
+   "title": "حضور غلامرضا نیکخواه در «زیرخاکی» ناتمام ماند؛ انتشار عکس تست گریم",
+   "url": "https://honaronline.ir/بخش-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-28/209054-%D8%AD%D8%B6%D9%88%D8%B1-%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%86%DB%8C%DA%A9%D8%AE%D9%88%D8%A7%D9%87-%D8%AF%D8%B1-%D8%B2%DB%8C%D8%B1%D8%AE%D8%A7%DA%A9%DB%8C-%D9%86%D8%A7%D8%AA%D9%85%D8%A7%D9%85-%D9%85%D8%A7%D9%86%D8%AF-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%B9%DA%A9%D8%B3-%D8%AA%D8%B3%D8%AA-%DA%AF%D8%B1%DB%8C%D9%85",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "8ce0ecff3f2c",
+   "title": "واکنش علیرضا قربانی به درگذشت رضا امیرخانی و غلامرضا نیکخواه + فیلم",
+   "url": "https://honaronline.ir/بخش-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/209060-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA-%D8%B1%D8%B6%D8%A7-%D8%A7%D9%85%DB%8C%D8%B1%D8%AE%D8%A7%D9%86%DB%8C-%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%86%DB%8C%DA%A9%D8%AE%D9%88%D8%A7%D9%87-%D9%81%DB%8C%D9%84%D9%85",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "4792a3006afa",
+   "title": "ستاره اسکندری با نمایش «قرمز داخلی/خارجی» به نویسندگی و کارگردانی کاملیا غزالی در تماشاخانه ایران‌شهر روی صحنه می‌رود.",
+   "url": "https://www.tiwall.com/news/iranshahr.setareheskandari",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
    "id": "3823d177113d",
    "title": "جنگ سگ‌های نگهبان با حضور رومی و استیچ پردیس سینمایی شمیران - سالن پنج (قرمز) جمعه ۰۶ آذر ۱۵:۳۰ ۸۰۰,۰۰۰ تا ۳۵۰,۰۰۰ تومان خرید بلیت ٪۲۰",
    "url": "https://www.tiwall.com/p/paw.patrol41",
@@ -79,11 +115,38 @@
    "last_seen": "2026-11-24"
   },
   {
+   "id": "3097417e252b",
+   "title": "آخرین سکانس پخش شده از غلامرضا نیکخواه + فیلم",
+   "url": "https://honaronline.ir/بخش-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-28/209062-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%B3%DA%A9%D8%A7%D9%86%D8%B3-%D9%BE%D8%AE%D8%B4-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B2-%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%86%DB%8C%DA%A9%D8%AE%D9%88%D8%A7%D9%87-%D9%81%DB%8C%D9%84%D9%85",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "1d2dd18d943c",
+   "title": "حسام نواب‌صفوی در دادگاه پرونده میناب + عکس",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/209069-%D8%AD%D8%B3%D8%A7%D9%85-%D9%86%D9%88%D8%A7%D8%A8-%D8%B5%D9%81%D9%88%DB%8C-%D8%AF%D8%B1-%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%87-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%85%DB%8C%D9%86%D8%A7%D8%A8-%D8%B9%DA%A9%D8%B3",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
    "id": "157299617007",
    "title": "نمایش نیمه پنهان ن و ک: عرشیا غفاری تماشاخانه هیلاج - کارگاه نمایش سه‌شنبه ۱۰ تا ۱۲ آذر ۱۹:۳۰ ۳۰۰,۰۰۰ تومان خرید بلیت",
    "url": "https://www.tiwall.com/p/nime.penhan",
    "source": "تیوال",
    "kind": "workshop",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24"
+  },
+  {
+   "id": "0341b28902f1",
+   "title": "اعلام نتایج بررسی نمایشنامه‌های دو بخش «مونولوگ» و «دیالوگ» جشنواره تئاتر «دارا رُخ»",
+   "url": "https://www.tiwall.com/news/dararokh.fest4",
+   "source": "تیوال",
+   "kind": "other",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24"
   },
@@ -1363,7 +1426,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "8832c8c8cb35",
@@ -1408,7 +1471,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "0703cf1d1ea6",
@@ -1426,7 +1489,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-15"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "92882029866d",
@@ -1462,7 +1525,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "02caeaea5fc8",
@@ -1471,7 +1534,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "fdb61c89afa0",
@@ -1741,7 +1804,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "9c838715f51b",
@@ -1750,7 +1813,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-15"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "8994a1317086",
@@ -1786,7 +1849,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "43602ce572cd",
@@ -1795,7 +1858,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "33d1ced9734b",
@@ -2119,7 +2182,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-12"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "d3ef929d42cc",
@@ -2182,7 +2245,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-24"
   },
   {
    "id": "bbcd5c033af2",
@@ -2833,5 +2896,5 @@
    "last_seen": "2026-11-19"
   }
  ],
- "updated": "2026-11-24T03:32+00:00"
+ "updated": "2026-11-24T16:35+00:00"
 }
