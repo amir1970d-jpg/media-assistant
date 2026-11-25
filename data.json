@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 27
+   "count": 26
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,15 @@
   }
  ],
  "items": [
+  {
+   "id": "b38d79e3dd94",
+   "title": "عکسی از میناب در میان ۱۰۰ عکس برتر سال مجله تایم",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/209080-%D8%B9%DA%A9%D8%B3%DB%8C-%D8%A7%D8%B2-%D9%85%DB%8C%D9%86%D8%A7%D8%A8-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86-%D8%B9%DA%A9%D8%B3-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%B3%D8%A7%D9%84-%D9%85%D8%AC%D9%84%D9%87-%D8%AA%D8%A7%DB%8C%D9%85",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
   {
    "id": "e54712131810",
    "title": "ستاره اسکندری از اواخر آذر به تماشاخانه ایران‌شهر می‌آید + عکس",
@@ -805,7 +814,7 @@
    "source": "مجتمع فنی تهران - زعفرانیه",
    "kind": "workshop",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-25"
   },
   {
    "id": "f5cde8f5825a",
@@ -1393,33 +1402,6 @@
    "last_seen": "2026-10-28"
   },
   {
-   "id": "fc99aa163d7c",
-   "title": "رقابت بهترین فیلم اسکار ۲۰۲۷: «تل‌ماسه» می‌تواند معادلات را تغییر دهد؟",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208725-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D8%B3%DA%A9%D8%A7%D8%B1-%D8%AA%D9%84-%D9%85%D8%A7%D8%B3%D9%87-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AF%D9%87%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "id": "f382133919d7",
-   "title": "مرور آثار آصف کاپادیا در ۳ پرده؛ سینما شغلی رویایی است!",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208722-%D9%85%D8%B1%D9%88%D8%B1-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A2%D8%B5%D9%81-%DA%A9%D8%A7%D9%BE%D8%A7%D8%AF%DB%8C%D8%A7-%D8%AF%D8%B1-%D9%BE%D8%B1%D8%AF%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%B4%D8%BA%D9%84%DB%8C-%D8%B1%D9%88%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B3%D8%AA",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
-   "id": "d6647e89fb72",
-   "title": "فیلمبرداری مستند ورزشی «پیش از سکو» به پایان رسید",
-   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208727-%D9%81%DB%8C%D9%84%D9%85%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%B3%DA%A9%D9%88-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
-   "source": "هنرآنلاین",
-   "kind": "news",
-   "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27"
-  },
-  {
    "id": "9162c3b33d79",
    "title": "ژست خلاق در عکاسی خیابانی",
    "url": "https://academy.didnegar.com/creative-pose-in-street-photography/",
@@ -1555,15 +1537,6 @@
    "last_seen": "2026-11-01"
   },
   {
-   "id": "9e2d6847f4a4",
-   "title": "نمایش مستندی درباره « رود ارس»",
-   "url": "https://tmoca.com/events/cinematheque/%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d9%85%d8%b3%d8%aa%d9%86%d8%af%db%8c-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d8%b1%d9%88%d8%af-%d8%a7%d8%b1%d8%b3/",
-   "source": "موزه هنرهای معاصر تهران",
-   "kind": "exhibition",
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27"
-  },
-  {
    "id": "3d362e0e90db",
    "title": "نمایش گواهی استمرار نیاز ن و ک: امیرحسین حیاتی کارگاه نمایش تالار انتظار - کرمانشاه ۰۴ تا ۱۴ آبان ۱۷:۳۰ ۲۰۰,۰۰۰ تومان خرید بلیت کرمانشاه",
    "url": "https://www.tiwall.com/p/estemrar",
@@ -1580,15 +1553,6 @@
    "kind": "exhibition",
    "first_seen": "2026-10-20",
    "last_seen": "2026-11-01"
-  },
-  {
-   "id": "0609c635c9cc",
-   "title": "پایان نمایشگاه «این صورت باقی»",
-   "url": "https://tmoca.com/news/%d9%be%d8%a7%db%8c%d8%a7%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a7%db%8c%d9%86-%d8%b5%d9%88%d8%b1%d8%aa-%d8%a8%d8%a7%d9%82%db%8c/",
-   "source": "موزه هنرهای معاصر تهران",
-   "kind": "exhibition",
-   "first_seen": "2026-10-20",
-   "last_seen": "2026-10-27"
   },
   {
    "id": "f02651d8bfb9",
@@ -1759,7 +1723,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-25"
   },
   {
    "id": "c65d7ecd5c2f",
@@ -1930,7 +1894,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-25"
   },
   {
    "id": "a8d4e7cfb735",
@@ -2794,7 +2758,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-25"
   },
   {
    "id": "224edcc0ec30",
@@ -2896,5 +2860,5 @@
    "last_seen": "2026-11-19"
   }
  ],
- "updated": "2026-11-24T16:35+00:00"
+ "updated": "2026-11-25T01:40+00:00"
 }
