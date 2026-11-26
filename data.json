@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 9
+   "count": 8
   },
   {
    "name": "کارنامه",
@@ -23,7 +23,7 @@
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
    "status": "ok",
-   "count": 8
+   "count": 7
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 34
+   "count": 33
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 26
+   "count": 25
   },
   {
    "name": "ایسنا",
@@ -124,11 +124,29 @@
    "last_seen": "2026-11-26"
   },
   {
+   "id": "5470bba8793d",
+   "title": "معرفی گروه‌های حاضر در مرحله کشوری جشنواره سرود فجر",
+   "url": "https://honaronline.ir/بخش-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/209100-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%DA%AF%D8%B1%D9%88%D9%87-%D9%87%D8%A7%DB%8C-%D8%AD%D8%A7%D8%B6%D8%B1-%D8%AF%D8%B1-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%DA%A9%D8%B4%D9%88%D8%B1%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1%D9%88%D8%AF-%D9%81%D8%AC%D8%B1",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
+  },
+  {
    "id": "4931acad3021",
    "title": "سی‌ویکمین جشنواره بین الملی تئاتر کودک و نوجوان",
    "url": "https://www.tiwall.com/showcase?filters=s:childrenfestival31",
    "source": "تیوال",
    "kind": "other",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26"
+  },
+  {
+   "id": "2892b98b6e8b",
+   "title": "فیلم‌های آخر هفته تلویزیون؛ از «ناخدا خورشید» تا «اینک آخرالزمان»",
+   "url": "https://honaronline.ir/بخش-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-28/209093-%D9%81%DB%8C%D9%84%D9%85-%D9%87%D8%A7%DB%8C-%D8%A2%D8%AE%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D8%B2-%D9%86%D8%A7%D8%AE%D8%AF%D8%A7-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF-%D8%AA%D8%A7-%D8%A7%DB%8C%D9%86%DA%A9-%D8%A2%D8%AE%D8%B1%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
    "first_seen": "2026-11-26",
    "last_seen": "2026-11-26"
   },
@@ -1606,7 +1624,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-13"
+   "last_seen": "2026-11-26"
   },
   {
    "id": "79c226288a01",
@@ -1651,7 +1669,7 @@
    "source": "تیوال",
    "kind": "workshop",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-15"
+   "last_seen": "2026-11-26"
   },
   {
    "id": "c5c2213e24cb",
@@ -1723,7 +1741,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-13"
+   "last_seen": "2026-11-26"
   },
   {
    "id": "e997d714fd16",
@@ -1768,7 +1786,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-26"
   },
   {
    "id": "a315b03db217",
@@ -1867,7 +1885,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-26"
   },
   {
    "id": "ff8a32a38871",
@@ -1975,7 +1993,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-26"
   },
   {
    "id": "4eb3dcc28e8e",
@@ -2056,7 +2074,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-19"
+   "last_seen": "2026-11-26"
   },
   {
    "id": "f47f5acdbdbd",
@@ -2173,7 +2191,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-19"
+   "last_seen": "2026-11-26"
   },
   {
    "id": "d359a045fc6b",
@@ -2650,7 +2668,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-26"
   },
   {
    "id": "3ecdea040a7e",
@@ -2686,7 +2704,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-14"
+   "last_seen": "2026-11-26"
   },
   {
    "id": "37dd527d5847",
@@ -2878,5 +2896,5 @@
    "last_seen": "2026-11-26"
   }
  ],
- "updated": "2026-11-26T01:14+00:00"
+ "updated": "2026-11-26T15:54+00:00"
 }
