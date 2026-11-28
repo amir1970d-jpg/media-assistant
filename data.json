@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 8
+   "count": 11
   },
   {
    "name": "کارنامه",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 33
+   "count": 36
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 23
+   "count": 26
   },
   {
    "name": "ایسنا",
@@ -70,11 +70,56 @@
  ],
  "items": [
   {
+   "id": "f22bffed6299",
+   "title": "سینماها در روز مادر نیم‌ بها شد",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/209141-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D9%87%D8%A7-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2-%D9%85%D8%A7%D8%AF%D8%B1-%D9%86%DB%8C%D9%85-%D8%A8%D9%87%D8%A7-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28"
+  },
+  {
+   "id": "98a2328d3de2",
+   "title": "اعضای شورای سیاستگذاری جشنواره‌ بین‌المللی‌ هنرهای‌ ایرانی معرفی شدند",
+   "url": "https://honaronline.ir/بخش-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C-7/209131-%D8%A7%D8%B9%D8%B6%D8%A7%DB%8C-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D9%87%D9%86%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28"
+  },
+  {
+   "id": "917988f29793",
+   "title": "نمایش فیلم«ایران سرای من است»",
+   "url": "https://tmoca.com/events/cinematheque/%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d9%81%db%8c%d9%84%d9%85%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%db%8c-%d9%85%d9%86-%d8%a7%d8%b3%d8%aa/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28"
+  },
+  {
+   "id": "8d8603f6562a",
+   "title": "نمایش همه چیز مثل قبل ن و ک: ایلیا امامی تماشاخانه هیلاج - کارگاه نمایش ۰۹ آذر تا ۰۸ دی ۲۰:۱۵ ۴۰۰,۰۰۰ تومان خرید بلیت",
+   "url": "https://www.tiwall.com/p/before",
+   "source": "تیوال",
+   "kind": "workshop",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28"
+  },
+  {
    "id": "4f93abc2f7fd",
    "title": "ورکشاپ شیوه‌ی شرکت در تست‌های بازیگری ورکشاپ تخصصی شیوه‌ی شرکت در تست‌های بازیگری آموزشگاه سینمایی بارانا سه‌شنبه ۱۰ آذر ۱۶:۰۰ ۳,۰۰۰,۰۰۰ تومان ثبت نام",
    "url": "https://www.tiwall.com/p/bazigari222",
    "source": "تیوال",
    "kind": "workshop",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28"
+  },
+  {
+   "id": "11006e973594",
+   "title": "پیام مهدی شفیعی و مرضیه برومند به جشنواره تئاتر کودک و نوجوان",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/209140-%D9%BE%DB%8C%D8%A7%D9%85-%D9%85%D9%87%D8%AF%DB%8C-%D8%B4%D9%81%DB%8C%D8%B9%DB%8C-%D9%85%D8%B1%D8%B6%DB%8C%D9%87-%D8%A8%D8%B1%D9%88%D9%85%D9%86%D8%AF-%D8%A8%D9%87-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%DA%A9%D9%88%D8%AF%DA%A9-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
    "first_seen": "2026-11-28",
    "last_seen": "2026-11-28"
   },
@@ -1525,7 +1570,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-09"
+   "last_seen": "2026-11-28"
   },
   {
    "id": "89ec57a9a1fd",
@@ -1642,7 +1687,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-19"
+   "last_seen": "2026-11-28"
   },
   {
    "id": "30e06e9d05a8",
@@ -1849,7 +1894,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-28"
   },
   {
    "id": "455f540e169d",
@@ -1885,7 +1930,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17"
+   "last_seen": "2026-11-28"
   },
   {
    "id": "2a5839e9ae00",
@@ -1912,7 +1957,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-28"
   },
   {
    "id": "cb3bf358e550",
@@ -1921,7 +1966,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-28"
   },
   {
    "id": "c9c333f67519",
@@ -1975,7 +2020,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-19"
+   "last_seen": "2026-11-28"
   },
   {
    "id": "760d496f0f74",
@@ -2896,5 +2941,5 @@
    "last_seen": "2026-11-26"
   }
  ],
- "updated": "2026-11-28T00:46+00:00"
+ "updated": "2026-11-28T14:38+00:00"
 }
